@@ -5,7 +5,7 @@ async function loadLevel(level) {
             cfg = {
                 time: 0,
                 user: {
-                    base: cfg.user.base,
+                    base: pokemon.base,
                     coords: [1,3],
                     // coords: [this.coords[0], this.coords[1]],
                     element: document.getElementById("user"),
