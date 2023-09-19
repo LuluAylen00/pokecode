@@ -29,25 +29,7 @@ let cfg = {
 
 
 
-function WildPokemon (type, coords, level) {
-    let faces = ["up","down","right","left"]
-    let div = document.createElement("div");
-    div.classList.add("unit");
-    
-    this.type = type;
-    this.face = faces[Math.floor(Math.random()*faces.length)];
-    this.coords = coords;
-    this.name = getPokemon(type).name;
-    this.team = 1;
-    this.level = level;
-    this.element = div;
-    this.move = true;
-    this.stats = {
-        hp: 10,
-        attack: 2,
-        exp: 0
-    }
-}
+
 
 function runMove(unit){
     // console.log(`Posición teórica ${(unit.coords[1] * 64)}px,${(unit.coords[0] * 64)}px`);

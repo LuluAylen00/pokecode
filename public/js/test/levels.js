@@ -1,3 +1,23 @@
+function WildPokemon (type, coords, level) {
+    let faces = ["up","down","right","left"]
+    let div = document.createElement("div");
+    div.classList.add("unit");
+    
+    this.type = type;
+    this.face = faces[Math.floor(Math.random()*faces.length)];
+    this.coords = coords;
+    this.name = getPokemon(type).name;
+    this.team = 1;
+    this.level = level;
+    this.element = div;
+    this.move = true;
+    this.stats = {
+        hp: 10,
+        attack: 2,
+        exp: 0
+    }
+}
+
 async function loadLevel(level) {
     let pokemon = await getPokemon(document.getElementById("type").innerHTML || 1)
     switch (level) {
