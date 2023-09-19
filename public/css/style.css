@@ -1,0 +1,366 @@
+@font-face {
+	font-family: "pokeGb";
+	src: url("../fonts/customfont.ttf") format("truetype");
+}
+
+@font-face {
+	font-family: "pokeDs";
+	src: url("../fonts/pokemon-ds-font.ttf") format("truetype");
+}
+
+* {
+	padding: 0;
+	margin: 0;
+	list-style-type: none;
+	font-family: "pokeDs";
+}
+
+body {
+	margin: 0;
+	padding: 0;
+  background-color: #252c30;
+}
+
+ul#poke-list {
+	/* width: 100vw; */
+	display: flex;
+	flex-wrap: wrap;
+}
+
+div#cont {
+	position: relative;
+}
+
+div#user {
+	/* background-image: url('/img/maptile1.png'); */
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 64px;
+	height: 64px;
+	background-size: cover;
+	transition: top 0.2s linear, left 0.2s linear;
+}
+
+div.unit {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 64px;
+	height: 64px;
+	background-size: cover;
+	transition: top 0.2s linear, left 0.2s linear;
+}
+
+div#table {
+	display: flex;
+	flex-direction: column;
+}
+
+div.row {
+	display: flex;
+}
+
+@keyframes attack-up {
+	0% {
+		transform: translate(0, 0);
+	}
+	50% {
+		transform: translate(0, -16px);
+	}
+	100% {
+		transform: translate(0, 0);
+	}
+}
+
+@keyframes attack-down {
+	0% {
+		transform: translate(0, 0);
+	}
+	50% {
+		transform: translate(0, 16px);
+	}
+	100% {
+		transform: translate(0, 0);
+	}
+}
+
+@keyframes attack-left {
+	0% {
+		transform: translate(0, 0);
+	}
+	50% {
+		transform: translate(-16px, 0);
+	}
+	100% {
+		transform: translate(0, 0);
+	}
+}
+
+@keyframes attack-right {
+	0% {
+		transform: translate(0, 0);
+	}
+	50% {
+		transform: translate(16px, 0);
+	}
+	100% {
+		transform: translate(0, 0);
+	}
+}
+
+.atk-up {
+	animation: attack-up 0.2s linear;
+}
+.atk-down {
+	animation: attack-down 0.2s linear;
+}
+.atk-left {
+	animation: attack-left 0.2s linear;
+}
+.atk-right {
+	animation: attack-right 0.2s linear;
+}
+
+/* 
+    red health-bar: #f04939
+    yellow health-bar: #f9ec46
+    green health-bar: #79ffb1
+    exp bar: #49c7e8
+*/
+
+#health.full {
+	background-color: #79ffb1;
+}
+
+#health.half {
+	background-color: #f9ec46;
+}
+
+#health.quarter {
+	background-color: #f04939;
+}
+
+@import "https://fonts.googleapis.com/css?family=VT323";
+
+main {
+	position: relative;
+	display: flex;
+}
+
+#game-div {
+	width: 69vw;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+#right-bar {
+  width: 31vw;
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
+#right-bar section p {
+  position: relative;
+  height: 3rem;
+}
+
+#reset {
+  position: absolute;
+  left: 7%;
+  padding: 10px;
+  top: 23%;
+}
+
+div.info {
+	/* https://css-tricks.com/almanac/properties/i/image-rendering/ */
+	-ms-interpolation-mode: nearest-neighbor;
+	image-rendering: -moz-crisp-edges;
+	image-rendering: -o-pixelated;
+	image-rendering: pixelated;
+
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+
+	font-family: "VT323";
+	color: #434343;
+	text-shadow: 0.25vmin 0.25vmin #878787;
+
+	overflow: hidden;
+	right: 0px;
+	bottom: 0px;
+}
+
+.info {
+	width: var(--width);
+	height: var(--height);
+	position: absolute;
+}
+
+.info > .wrap {
+	width: 100%;
+	height: 100%;
+
+	--font-size: calc(75vmin / 2 / 10);
+	font-size: var(--font-size);
+	position: absolute;
+
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.info > .wrap > .healthbar {
+	display: inline-block;
+	height: 100%;
+	background: #79ffb1;
+	position: absolute;
+	bottom: 0;
+	opacity: 1;
+	z-index: -1;
+	left: 46%;
+	transition-timing-function: linear;
+}
+
+.info > .wrap > .healthbar.full {
+	background: #79ffb1;
+}
+
+.info > .wrap > .healthbar.half {
+	background: #f9ec46;
+}
+
+.info > .wrap > .healthbar.quarter {
+	background: #f04939;
+}
+
+.info > .wrap > .healthbar_bg {
+	display: inline-block;
+	height: 100%;
+	background: #506858;
+	position: absolute;
+	bottom: 0;
+	opacity: 1;
+	z-index: -1;
+}
+
+.info.you > .wrap > .name {
+	position: absolute;
+	top: calc(var(--font-size) / 6);
+	left: calc(var(--font-size) * 1.15);
+}
+
+.info.you > .wrap > .level {
+	position: absolute;
+	top: calc(var(--font-size) / 6);
+	right: calc(var(--font-size) * 0.55);
+	text-align: right;
+}
+
+.info.you > .wrap > .health {
+	position: absolute;
+	bottom: calc(var(--font-size) / 3.15);
+	right: calc(var(--font-size) * 0.65);
+	text-align: right;
+}
+
+.info.you > .wrap > .healthbar_bg {
+	width: 14vmin;
+	right: calc(var(--font-size) - 1.5vmin);
+}
+
+.info.you > .wrap > .healthbar {
+	width: 14vmin;
+	right: calc(var(--font-size) - 1.5vmin);
+}
+
+.info.you {
+	--width: calc(75vmin / 2.5);
+	--height: calc(var(--width) * 0.356);
+
+	/* bottom: calc(75vmin * 0.2);
+    right: calc(var(--height) / 3); */
+	z-index: 1;
+  left: 0;
+}
+
+.info.you > .wrap {
+	/* background-image: url("https://dl.dropbox.com/s/8akzda7grvyx87i/you_info.png?raw=1"); */
+	background-image: url("/img/you_info.png");
+}
+
+@keyframes takeDamageHealthbar {
+	0% {
+		transform: translateY(0.5vmin);
+	}
+	100% {
+		transform: translateY(0);
+	}
+}
+@keyframes shaking {
+	0% {
+		transform: translateX(0);
+	}
+	23% {
+		transform: translateX(0);
+	}
+	33% {
+		transform: translateX(3vmin);
+	}
+	43% {
+		transform: translateX(0);
+	}
+	56% {
+		transform: translateX(0);
+	}
+	66% {
+		transform: translateX(3vmin);
+	}
+	76% {
+		transform: translateX(0);
+	}
+	100% {
+		transform: translateX(0);
+	}
+}
+
+#editor-div {
+	/* position: absolute; */
+	background-color: #263238;
+	color: snow;
+	/* top: 0;
+	left: 0;
+	z-index: 10; */
+	width: 30vw;
+}
+
+#editor-div-header {
+	padding: 5px;
+	font-size: 1.4rem;
+	cursor: default;
+}
+
+#editor-div > section {
+	display: flex;
+	flex-direction: column;
+}
+
+.CodeMirror {
+	height: 30vh;
+  font-size: 28px;
+}
+
+#editor-div img {
+	width: 3rem;
+	/* margin-right: 5px; */
+}
+#editor-div p {
+	padding: 10px;
+	display: flex;
+	justify-content: center;
+	font-size: 1.4rem;
+}

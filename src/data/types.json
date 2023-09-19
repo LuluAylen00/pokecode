@@ -1,0 +1,615 @@
+[
+    {
+        "id": 1,
+        "name": "Normal",
+        "rel": {
+            "receivingMove": {
+                "0": [
+                    "Fantasma"
+                ],
+                "2": [
+                    "Lucha"
+                ],
+                "0.5": []
+            },
+            "strongAgainst": {
+                "0": [
+                    "Fantasma"
+                ],
+                "2": [],
+                "0.5": [
+                    "Roca",
+                    "Acero"
+                ]
+            }
+        }
+    },
+    {
+        "id": 2,
+        "name": "Lucha",
+        "rel": {
+            "receivingMove": {
+                "0": [],
+                "2": [
+                    "Volador",
+                    "Psíquico",
+                    "Hada"
+                ],
+                "0.5": [
+                    "Roca",
+                    "Bicho",
+                    "Siniestro"
+                ]
+            },
+            "strongAgainst": {
+                "0": [
+                    "Fantasma"
+                ],
+                "2": [
+                    "Normal",
+                    "Roca",
+                    "Acero",
+                    "Hielo",
+                    "Siniestro"
+                ],
+                "0.5": [
+                    "Volador",
+                    "Veneno",
+                    "Bicho",
+                    "Psíquico",
+                    "Hada"
+                ]
+            }
+        }
+    },
+    {
+        "id": 3,
+        "name": "Volador",
+        "rel": {
+            "receivingMove": {
+                "0": [
+                    "Tierra"
+                ],
+                "2": [
+                    "Roca",
+                    "Eléctrico",
+                    "Hielo"
+                ],
+                "0.5": [
+                    "Lucha",
+                    "Bicho",
+                    "Planta"
+                ]
+            },
+            "strongAgainst": {
+                "0": [],
+                "2": [
+                    "Lucha",
+                    "Bicho",
+                    "Planta"
+                ],
+                "0.5": [
+                    "Roca",
+                    "Acero",
+                    "Eléctrico"
+                ]
+            }
+        }
+    },
+    {
+        "id": 4,
+        "name": "Veneno",
+        "rel": {
+            "receivingMove": {
+                "0": [],
+                "2": [
+                    "Tierra",
+                    "Psíquico"
+                ],
+                "0.5": [
+                    "Lucha",
+                    "Veneno",
+                    "Bicho",
+                    "Planta",
+                    "Hada"
+                ]
+            },
+            "strongAgainst": {
+                "0": [
+                    "Acero"
+                ],
+                "2": [
+                    "Planta",
+                    "Hada"
+                ],
+                "0.5": [
+                    "Veneno",
+                    "Tierra",
+                    "Roca",
+                    "Fantasma"
+                ]
+            }
+        }
+    },
+    {
+        "id": 5,
+        "name": "Tierra",
+        "rel": {
+            "receivingMove": {
+                "0": [
+                    "Eléctrico"
+                ],
+                "2": [
+                    "Agua",
+                    "Planta",
+                    "Hielo"
+                ],
+                "0.5": [
+                    "Veneno",
+                    "Roca"
+                ]
+            },
+            "strongAgainst": {
+                "0": [
+                    "Volador"
+                ],
+                "2": [
+                    "Veneno",
+                    "Roca",
+                    "Acero",
+                    "Fuego",
+                    "Eléctrico"
+                ],
+                "0.5": [
+                    "Bicho",
+                    "Planta"
+                ]
+            }
+        }
+    },
+    {
+        "id": 6,
+        "name": "Roca",
+        "rel": {
+            "receivingMove": {
+                "0": [],
+                "2": [
+                    "Lucha",
+                    "Tierra",
+                    "Acero",
+                    "Agua",
+                    "Planta"
+                ],
+                "0.5": [
+                    "Normal",
+                    "Volador",
+                    "Veneno",
+                    "Fuego"
+                ]
+            },
+            "strongAgainst": {
+                "0": [],
+                "2": [
+                    "Volador",
+                    "Bicho",
+                    "Fuego",
+                    "Hielo"
+                ],
+                "0.5": [
+                    "Lucha",
+                    "Tierra",
+                    "Acero"
+                ]
+            }
+        }
+    },
+    {
+        "id": 7,
+        "name": "Bicho",
+        "rel": {
+            "receivingMove": {
+                "0": [],
+                "2": [
+                    "Volador",
+                    "Roca",
+                    "Fuego"
+                ],
+                "0.5": [
+                    "Lucha",
+                    "Tierra",
+                    "Planta"
+                ]
+            },
+            "strongAgainst": {
+                "0": [],
+                "2": [
+                    "Planta",
+                    "Psíquico",
+                    "Siniestro"
+                ],
+                "0.5": [
+                    "Lucha",
+                    "Volador",
+                    "Veneno",
+                    "Fantasma",
+                    "Acero",
+                    "Fuego",
+                    "Hada"
+                ]
+            }
+        }
+    },
+    {
+        "id": 8,
+        "name": "Fantasma",
+        "rel": {
+            "receivingMove": {
+                "0": [
+                    "Normal",
+                    "Lucha"
+                ],
+                "2": [
+                    "Fantasma",
+                    "Siniestro"
+                ],
+                "0.5": [
+                    "Veneno",
+                    "Bicho"
+                ]
+            },
+            "strongAgainst": {
+                "0": [
+                    "Normal"
+                ],
+                "2": [
+                    "Fantasma",
+                    "Psíquico"
+                ],
+                "0.5": [
+                    "Siniestro"
+                ]
+            }
+        }
+    },
+    {
+        "id": 9,
+        "name": "Acero",
+        "rel": {
+            "receivingMove": {
+                "0": [
+                    "Veneno"
+                ],
+                "2": [
+                    "Lucha",
+                    "Tierra",
+                    "Fuego"
+                ],
+                "0.5": [
+                    "Normal",
+                    "Volador",
+                    "Roca",
+                    "Bicho",
+                    "Acero",
+                    "Planta",
+                    "Psíquico",
+                    "Hielo",
+                    "Dragón",
+                    "Hada"
+                ]
+            },
+            "strongAgainst": {
+                "0": [],
+                "2": [
+                    "Roca",
+                    "Hielo",
+                    "Hada"
+                ],
+                "0.5": [
+                    "Acero",
+                    "Fuego",
+                    "Agua",
+                    "Eléctrico"
+                ]
+            }
+        }
+    },
+    {
+        "id": 10,
+        "name": "Fuego",
+        "rel": {
+            "receivingMove": {
+                "0": [],
+                "2": [
+                    "Tierra",
+                    "Roca",
+                    "Agua"
+                ],
+                "0.5": [
+                    "Bicho",
+                    "Acero",
+                    "Fuego",
+                    "Planta",
+                    "Hielo",
+                    "Hada"
+                ]
+            },
+            "strongAgainst": {
+                "0": [],
+                "2": [
+                    "Bicho",
+                    "Acero",
+                    "Planta",
+                    "Hielo"
+                ],
+                "0.5": [
+                    "Roca",
+                    "Fuego",
+                    "Agua",
+                    "Dragón"
+                ]
+            }
+        }
+    },
+    {
+        "id": 11,
+        "name": "Agua",
+        "rel": {
+            "receivingMove": {
+                "0": [],
+                "2": [
+                    "Planta",
+                    "Eléctrico"
+                ],
+                "0.5": [
+                    "Acero",
+                    "Fuego",
+                    "Agua",
+                    "Hielo"
+                ]
+            },
+            "strongAgainst": {
+                "0": [],
+                "2": [
+                    "Tierra",
+                    "Roca",
+                    "Fuego"
+                ],
+                "0.5": [
+                    "Agua",
+                    "Planta",
+                    "Dragón"
+                ]
+            }
+        }
+    },
+    {
+        "id": 12,
+        "name": "Planta",
+        "rel": {
+            "receivingMove": {
+                "0": [],
+                "2": [
+                    "Volador",
+                    "Veneno",
+                    "Bicho",
+                    "Fuego",
+                    "Hielo"
+                ],
+                "0.5": [
+                    "Tierra",
+                    "Agua",
+                    "Planta",
+                    "Eléctrico"
+                ]
+            },
+            "strongAgainst": {
+                "0": [],
+                "2": [
+                    "Tierra",
+                    "Roca",
+                    "Agua"
+                ],
+                "0.5": [
+                    "Volador",
+                    "Veneno",
+                    "Bicho",
+                    "Acero",
+                    "Fuego",
+                    "Planta",
+                    "Dragón"
+                ]
+            }
+        }
+    },
+    {
+        "id": 13,
+        "name": "Eléctrico",
+        "rel": {
+            "receivingMove": {
+                "0": [],
+                "2": [
+                    "Tierra"
+                ],
+                "0.5": [
+                    "Volador",
+                    "Acero",
+                    "Eléctrico"
+                ]
+            },
+            "strongAgainst": {
+                "0": [
+                    "Tierra"
+                ],
+                "2": [
+                    "Volador",
+                    "Agua"
+                ],
+                "0.5": [
+                    "Planta",
+                    "Eléctrico",
+                    "Dragón"
+                ]
+            }
+        }
+    },
+    {
+        "id": 14,
+        "name": "Psíquico",
+        "rel": {
+            "receivingMove": {
+                "0": [],
+                "2": [
+                    "Bicho",
+                    "Fantasma",
+                    "Siniestro"
+                ],
+                "0.5": [
+                    "Lucha",
+                    "Psíquico"
+                ]
+            },
+            "strongAgainst": {
+                "0": [
+                    "Siniestro"
+                ],
+                "2": [
+                    "Lucha",
+                    "Veneno"
+                ],
+                "0.5": [
+                    "Acero",
+                    "Psíquico"
+                ]
+            }
+        }
+    },
+    {
+        "id": 15,
+        "name": "Hielo",
+        "rel": {
+            "receivingMove": {
+                "0": [],
+                "2": [
+                    "Lucha",
+                    "Roca",
+                    "Acero",
+                    "Fuego"
+                ],
+                "0.5": [
+                    "Hielo"
+                ]
+            },
+            "strongAgainst": {
+                "0": [],
+                "2": [
+                    "Volador",
+                    "Tierra",
+                    "Planta",
+                    "Dragón"
+                ],
+                "0.5": [
+                    "Acero",
+                    "Fuego",
+                    "Agua",
+                    "Hielo"
+                ]
+            }
+        }
+    },
+    {
+        "id": 16,
+        "name": "Dragón",
+        "rel": {
+            "receivingMove": {
+                "0": [],
+                "2": [
+                    "Hielo",
+                    "Dragón",
+                    "Hada"
+                ],
+                "0.5": [
+                    "Fuego",
+                    "Agua",
+                    "Planta",
+                    "Eléctrico"
+                ]
+            },
+            "strongAgainst": {
+                "0": [
+                    "Hada"
+                ],
+                "2": [
+                    "Dragón"
+                ],
+                "0.5": [
+                    "Acero"
+                ]
+            }
+        }
+    },
+    {
+        "id": 17,
+        "name": "Siniestro",
+        "rel": {
+            "receivingMove": {
+                "0": [
+                    "Psíquico"
+                ],
+                "2": [
+                    "Lucha",
+                    "Bicho",
+                    "Hada"
+                ],
+                "0.5": [
+                    "Fantasma",
+                    "Siniestro"
+                ]
+            },
+            "strongAgainst": {
+                "0": [],
+                "2": [
+                    "Fantasma",
+                    "Psíquico"
+                ],
+                "0.5": [
+                    "Lucha",
+                    "Siniestro",
+                    "Hada"
+                ]
+            }
+        }
+    },
+    {
+        "id": 18,
+        "name": "Hada",
+        "rel": {
+            "receivingMove": {
+                "0": [
+                    "Dragón"
+                ],
+                "2": [
+                    "Veneno",
+                    "Acero"
+                ],
+                "0.5": [
+                    "Lucha",
+                    "Bicho",
+                    "Siniestro"
+                ]
+            },
+            "strongAgainst": {
+                "0": [],
+                "2": [
+                    "Lucha",
+                    "Dragón",
+                    "Siniestro"
+                ],
+                "0.5": [
+                    "Veneno",
+                    "Acero",
+                    "Fuego"
+                ]
+            }
+        }
+    }
+]

@@ -1,0 +1,10973 @@
+[
+  {
+    "id": 1,
+    "name": "Bulbasaur",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 12,
+        "name": "Planta"
+      },
+      {
+        "id": 4,
+        "name": "Veneno"
+      }
+    ],
+    "stats": {
+      "hp": 45,
+      "attack": 65
+    }
+  },
+  {
+    "id": 2,
+    "name": "Ivysaur",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 12,
+        "name": "Planta"
+      },
+      {
+        "id": 4,
+        "name": "Veneno"
+      }
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 80
+    }
+  },
+  {
+    "id": 3,
+    "name": "Venusaur",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 12,
+        "name": "Planta"
+      },
+      {
+        "id": 4,
+        "name": "Veneno"
+      }
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": 100
+    }
+  },
+  {
+    "id": 4,
+    "name": "Charmander",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 10,
+        "name": "Fuego"
+      }
+    ],
+    "stats": {
+      "hp": 39,
+      "attack": 60
+    }
+  },
+  {
+    "id": 5,
+    "name": "Charmeleon",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 10,
+        "name": "Fuego"
+      }
+    ],
+    "stats": {
+      "hp": 58,
+      "attack": 80
+    }
+  },
+  {
+    "id": 6,
+    "name": "Charizard",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 10,
+        "name": "Fuego"
+      },
+      {
+        "id": 3,
+        "name": "Volador"
+      }
+    ],
+    "stats": {
+      "hp": 78,
+      "attack": 109
+    }
+  },
+  {
+    "id": 7,
+    "name": "Squirtle",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 11,
+        "name": "Agua"
+      }
+    ],
+    "stats": {
+      "hp": 44,
+      "attack": 50
+    }
+  },
+  {
+    "id": 8,
+    "name": "Wartortle",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 11,
+        "name": "Agua"
+      }
+    ],
+    "stats": {
+      "hp": 59,
+      "attack": 65
+    }
+  },
+  {
+    "id": 9,
+    "name": "Blastoise",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 11,
+        "name": "Agua"
+      }
+    ],
+    "stats": {
+      "hp": 79,
+      "attack": 85
+    }
+  },
+  {
+    "id": 10,
+    "name": "Caterpie",
+    "captureRate": 255,
+    "types": [
+      {
+        "id": 7,
+        "name": "Bicho"
+      }
+    ],
+    "stats": {
+      "hp": 45,
+      "attack": 30
+    }
+  },
+  {
+    "id": 11,
+    "name": "Metapod",
+    "captureRate": 120,
+    "types": [
+      {
+        "id": 7,
+        "name": "Bicho"
+      }
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 25
+    }
+  },
+  {
+    "id": 12,
+    "name": "Butterfree",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 7,
+        "name": "Bicho"
+      },
+      {
+        "id": 3,
+        "name": "Volador"
+      }
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 90
+    }
+  },
+  {
+    "id": 13,
+    "name": "Weedle",
+    "captureRate": 255,
+    "types": [
+      {
+        "id": 7,
+        "name": "Bicho"
+      },
+      {
+        "id": 4,
+        "name": "Veneno"
+      }
+    ],
+    "stats": {
+      "hp": 40,
+      "attack": 35
+    }
+  },
+  {
+    "id": 14,
+    "name": "Kakuna",
+    "captureRate": 120,
+    "types": [
+      {
+        "id": 7,
+        "name": "Bicho"
+      },
+      {
+        "id": 4,
+        "name": "Veneno"
+      }
+    ],
+    "stats": {
+      "hp": 45,
+      "attack": 25
+    }
+  },
+  {
+    "id": 15,
+    "name": "Beedrill",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 7,
+        "name": "Bicho"
+      },
+      {
+        "id": 4,
+        "name": "Veneno"
+      }
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 90
+    }
+  },
+  {
+    "id": 16,
+    "name": "Pidgey",
+    "captureRate": 255,
+    "types": [
+      {
+        "id": 1,
+        "name": "Normal"
+      },
+      {
+        "id": 3,
+        "name": "Volador"
+      }
+    ],
+    "stats": {
+      "hp": 40,
+      "attack": 45
+    }
+  },
+  {
+    "id": 17,
+    "name": "Pidgeotto",
+    "captureRate": 120,
+    "types": [
+      {
+        "id": 1,
+        "name": "Normal"
+      },
+      {
+        "id": 3,
+        "name": "Volador"
+      }
+    ],
+    "stats": {
+      "hp": 63,
+      "attack": 60
+    }
+  },
+  {
+    "id": 18,
+    "name": "Pidgeot",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 1,
+        "name": "Normal"
+      },
+      {
+        "id": 3,
+        "name": "Volador"
+      }
+    ],
+    "stats": {
+      "hp": 83,
+      "attack": 80
+    }
+  },
+  {
+    "id": 19,
+    "name": "Rattata",
+    "captureRate": 255,
+    "types": [
+      {
+        "id": 1,
+        "name": "Normal"
+      }
+    ],
+    "stats": {
+      "hp": 30,
+      "attack": 56
+    }
+  },
+  {
+    "id": 20,
+    "name": "Raticate",
+    "captureRate": 127,
+    "types": [
+      {
+        "id": 1,
+        "name": "Normal"
+      }
+    ],
+    "stats": {
+      "hp": 55,
+      "attack": 81
+    }
+  },
+  {
+    "id": 21,
+    "name": "Spearow",
+    "captureRate": 255,
+    "types": [
+      {
+        "id": 1,
+        "name": "Normal"
+      },
+      {
+        "id": 3,
+        "name": "Volador"
+      }
+    ],
+    "stats": {
+      "hp": 40,
+      "attack": 60
+    }
+  },
+  {
+    "id": 22,
+    "name": "Fearow",
+    "captureRate": 90,
+    "types": [
+      {
+        "id": 1,
+        "name": "Normal"
+      },
+      {
+        "id": 3,
+        "name": "Volador"
+      }
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 90
+    }
+  },
+  {
+    "id": 23,
+    "name": "Ekans",
+    "captureRate": 255,
+    "types": [
+      {
+        "id": 4,
+        "name": "Veneno"
+      }
+    ],
+    "stats": {
+      "hp": 35,
+      "attack": 60
+    }
+  },
+  {
+    "id": 24,
+    "name": "Arbok",
+    "captureRate": 90,
+    "types": [
+      {
+        "id": 4,
+        "name": "Veneno"
+      }
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 95
+    }
+  },
+  {
+    "id": 25,
+    "name": "Pikachu",
+    "captureRate": 190,
+    "types": [
+      {
+        "id": 13,
+        "name": "Eléctrico"
+      }
+    ],
+    "stats": {
+      "hp": 35,
+      "attack": 55
+    }
+  },
+  {
+    "id": 26,
+    "name": "Raichu",
+    "captureRate": 75,
+    "types": [
+      {
+        "id": 13,
+        "name": "Eléctrico"
+      }
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 90
+    }
+  },
+  {
+    "id": 27,
+    "name": "Sandshrew",
+    "captureRate": 255,
+    "types": [
+      {
+        "id": 5,
+        "name": "Tierra"
+      }
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 75
+    }
+  },
+  {
+    "id": 28,
+    "name": "Sandslash",
+    "captureRate": 90,
+    "types": [
+      {
+        "id": 5,
+        "name": "Tierra"
+      }
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": 100
+    }
+  },
+  {
+    "id": 29,
+    "name": "Nidoran♀",
+    "captureRate": 235,
+    "types": [
+      {
+        "id": 4,
+        "name": "Veneno"
+      }
+    ],
+    "stats": {
+      "hp": 55,
+      "attack": 47
+    }
+  },
+  {
+    "id": 30,
+    "name": "Nidorina",
+    "captureRate": 120,
+    "types": [
+      {
+        "id": 4,
+        "name": "Veneno"
+      }
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 62
+    }
+  },
+  {
+    "id": 31,
+    "name": "Nidoqueen",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 4,
+        "name": "Veneno"
+      },
+      {
+        "id": 5,
+        "name": "Tierra"
+      }
+    ],
+    "stats": {
+      "hp": 90,
+      "attack": 92
+    }
+  },
+  {
+    "id": 32,
+    "name": "Nidoran♂",
+    "captureRate": 235,
+    "types": [
+      {
+        "id": 4,
+        "name": "Veneno"
+      }
+    ],
+    "stats": {
+      "hp": 46,
+      "attack": 57
+    }
+  },
+  {
+    "id": 33,
+    "name": "Nidorino",
+    "captureRate": 120,
+    "types": [
+      {
+        "id": 4,
+        "name": "Veneno"
+      }
+    ],
+    "stats": {
+      "hp": 61,
+      "attack": 72
+    }
+  },
+  {
+    "id": 34,
+    "name": "Nidoking",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 4,
+        "name": "Veneno"
+      },
+      {
+        "id": 5,
+        "name": "Tierra"
+      }
+    ],
+    "stats": {
+      "hp": 81,
+      "attack": 102
+    }
+  },
+  {
+    "id": 35,
+    "name": "Clefairy",
+    "captureRate": 150,
+    "types": [
+      {
+        "id": 18,
+        "name": "Hada"
+      }
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 60
+    }
+  },
+  {
+    "id": 36,
+    "name": "Clefable",
+    "captureRate": 25,
+    "types": [
+      {
+        "id": 18,
+        "name": "Hada"
+      }
+    ],
+    "stats": {
+      "hp": 95,
+      "attack": 95
+    }
+  },
+  {
+    "id": 37,
+    "name": "Vulpix",
+    "captureRate": 190,
+    "types": [
+      {
+        "id": 10,
+        "name": "Fuego"
+      }
+    ],
+    "stats": {
+      "hp": 38,
+      "attack": 50
+    }
+  },
+  {
+    "id": 38,
+    "name": "Ninetales",
+    "captureRate": 75,
+    "types": [
+      {
+        "id": 10,
+        "name": "Fuego"
+      }
+    ],
+    "stats": {
+      "hp": 73,
+      "attack": 81
+    }
+  },
+  {
+    "id": 39,
+    "name": "Jigglypuff",
+    "captureRate": 170,
+    "types": [
+      {
+        "id": 1,
+        "name": "Normal"
+      },
+      {
+        "id": 18,
+        "name": "Hada"
+      }
+    ],
+    "stats": {
+      "hp": 115,
+      "attack": 45
+    }
+  },
+  {
+    "id": 40,
+    "name": "Wigglytuff",
+    "captureRate": 50,
+    "types": [
+      {
+        "id": 1,
+        "name": "Normal"
+      },
+      {
+        "id": 18,
+        "name": "Hada"
+      }
+    ],
+    "stats": {
+      "hp": 140,
+      "attack": 85
+    }
+  },
+  {
+    "id": 41,
+    "name": "Zubat",
+    "captureRate": 255,
+    "types": [
+      {
+        "id": 4,
+        "name": "Veneno"
+      },
+      {
+        "id": 3,
+        "name": "Volador"
+      }
+    ],
+    "stats": {
+      "hp": 40,
+      "attack": 45
+    }
+  },
+  {
+    "id": 42,
+    "name": "Golbat",
+    "captureRate": 90,
+    "types": [
+      {
+        "id": 4,
+        "name": "Veneno"
+      },
+      {
+        "id": 3,
+        "name": "Volador"
+      }
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": 80
+    }
+  },
+  {
+    "id": 43,
+    "name": "Oddish",
+    "captureRate": 255,
+    "types": [
+      {
+        "id": 12,
+        "name": "Planta"
+      },
+      {
+        "id": 4,
+        "name": "Veneno"
+      }
+    ],
+    "stats": {
+      "hp": 45,
+      "attack": 75
+    }
+  },
+  {
+    "id": 44,
+    "name": "Gloom",
+    "captureRate": 120,
+    "types": [
+      {
+        "id": 12,
+        "name": "Planta"
+      },
+      {
+        "id": 4,
+        "name": "Veneno"
+      }
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 85
+    }
+  },
+  {
+    "id": 45,
+    "name": "Vileplume",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 12,
+        "name": "Planta"
+      },
+      {
+        "id": 4,
+        "name": "Veneno"
+      }
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": 110
+    }
+  },
+  {
+    "id": 46,
+    "name": "Paras",
+    "captureRate": 190,
+    "types": [
+      {
+        "id": 7,
+        "name": "Bicho"
+      },
+      {
+        "id": 12,
+        "name": "Planta"
+      }
+    ],
+    "stats": {
+      "hp": 35,
+      "attack": 70
+    }
+  },
+  {
+    "id": 47,
+    "name": "Parasect",
+    "captureRate": 75,
+    "types": [
+      {
+        "id": 7,
+        "name": "Bicho"
+      },
+      {
+        "id": 12,
+        "name": "Planta"
+      }
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 95
+    }
+  },
+  {
+    "id": 48,
+    "name": "Venonat",
+    "captureRate": 190,
+    "types": [
+      {
+        "id": 7,
+        "name": "Bicho"
+      },
+      {
+        "id": 4,
+        "name": "Veneno"
+      }
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 55
+    }
+  },
+  {
+    "id": 49,
+    "name": "Venomoth",
+    "captureRate": 75,
+    "types": [
+      {
+        "id": 7,
+        "name": "Bicho"
+      },
+      {
+        "id": 4,
+        "name": "Veneno"
+      }
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 90
+    }
+  },
+  {
+    "id": 50,
+    "name": "Diglett",
+    "captureRate": 255,
+    "types": [
+      {
+        "id": 5,
+        "name": "Tierra"
+      }
+    ],
+    "stats": {
+      "hp": 10,
+      "attack": 55
+    }
+  },
+  {
+    "id": 51,
+    "name": "Dugtrio",
+    "captureRate": 50,
+    "types": [
+      {
+        "id": 5,
+        "name": "Tierra"
+      }
+    ],
+    "stats": {
+      "hp": 35,
+      "attack": 100
+    }
+  },
+  {
+    "id": 52,
+    "name": "Meowth",
+    "captureRate": 255,
+    "types": [
+      {
+        "id": 1,
+        "name": "Normal"
+      }
+    ],
+    "stats": {
+      "hp": 40,
+      "attack": 45
+    }
+  },
+  {
+    "id": 53,
+    "name": "Persian",
+    "captureRate": 90,
+    "types": [
+      {
+        "id": 1,
+        "name": "Normal"
+      }
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 70
+    }
+  },
+  {
+    "id": 54,
+    "name": "Psyduck",
+    "captureRate": 190,
+    "types": [
+      {
+        "id": 11,
+        "name": "Agua"
+      }
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 65
+    }
+  },
+  {
+    "id": 55,
+    "name": "Golduck",
+    "captureRate": 75,
+    "types": [
+      {
+        "id": 11,
+        "name": "Agua"
+      }
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": 95
+    }
+  },
+  {
+    "id": 56,
+    "name": "Mankey",
+    "captureRate": 190,
+    "types": [
+      {
+        "id": 2,
+        "name": "Lucha"
+      }
+    ],
+    "stats": {
+      "hp": 40,
+      "attack": 80
+    }
+  },
+  {
+    "id": 57,
+    "name": "Primeape",
+    "captureRate": 75,
+    "types": [
+      {
+        "id": 2,
+        "name": "Lucha"
+      }
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 105
+    }
+  },
+  {
+    "id": 58,
+    "name": "Growlithe",
+    "captureRate": 190,
+    "types": [
+      {
+        "id": 10,
+        "name": "Fuego"
+      }
+    ],
+    "stats": {
+      "hp": 55,
+      "attack": 70
+    }
+  },
+  {
+    "id": 59,
+    "name": "Arcanine",
+    "captureRate": 75,
+    "types": [
+      {
+        "id": 10,
+        "name": "Fuego"
+      }
+    ],
+    "stats": {
+      "hp": 90,
+      "attack": 110
+    }
+  },
+  {
+    "id": 60,
+    "name": "Poliwag",
+    "captureRate": 255,
+    "types": [
+      {
+        "id": 11,
+        "name": "Agua"
+      }
+    ],
+    "stats": {
+      "hp": 40,
+      "attack": 50
+    }
+  },
+  {
+    "id": 61,
+    "name": "Poliwhirl",
+    "captureRate": 120,
+    "types": [
+      {
+        "id": 11,
+        "name": "Agua"
+      }
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 65
+    }
+  },
+  {
+    "id": 62,
+    "name": "Poliwrath",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 11,
+        "name": "Agua"
+      },
+      {
+        "id": 2,
+        "name": "Lucha"
+      }
+    ],
+    "stats": {
+      "hp": 90,
+      "attack": 95
+    }
+  },
+  {
+    "id": 63,
+    "name": "Abra",
+    "captureRate": 200,
+    "types": [
+      {
+        "id": 14,
+        "name": "Psíquico"
+      }
+    ],
+    "stats": {
+      "hp": 25,
+      "attack": 105
+    }
+  },
+  {
+    "id": 64,
+    "name": "Kadabra",
+    "captureRate": 100,
+    "types": [
+      {
+        "id": 14,
+        "name": "Psíquico"
+      }
+    ],
+    "stats": {
+      "hp": 40,
+      "attack": 120
+    }
+  },
+  {
+    "id": 65,
+    "name": "Alakazam",
+    "captureRate": 50,
+    "types": [
+      {
+        "id": 14,
+        "name": "Psíquico"
+      }
+    ],
+    "stats": {
+      "hp": 55,
+      "attack": 135
+    }
+  },
+  {
+    "id": 66,
+    "name": "Machop",
+    "captureRate": 180,
+    "types": [
+      {
+        "id": 2,
+        "name": "Lucha"
+      }
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 80
+    }
+  },
+  {
+    "id": 67,
+    "name": "Machoke",
+    "captureRate": 90,
+    "types": [
+      {
+        "id": 2,
+        "name": "Lucha"
+      }
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": 100
+    }
+  },
+  {
+    "id": 68,
+    "name": "Machamp",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 2,
+        "name": "Lucha"
+      }
+    ],
+    "stats": {
+      "hp": 90,
+      "attack": 130
+    }
+  },
+  {
+    "id": 69,
+    "name": "Bellsprout",
+    "captureRate": 255,
+    "types": [
+      {
+        "id": 12,
+        "name": "Planta"
+      },
+      {
+        "id": 4,
+        "name": "Veneno"
+      }
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 75
+    }
+  },
+  {
+    "id": 70,
+    "name": "Weepinbell",
+    "captureRate": 120,
+    "types": [
+      {
+        "id": 12,
+        "name": "Planta"
+      },
+      {
+        "id": 4,
+        "name": "Veneno"
+      }
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 90
+    }
+  },
+  {
+    "id": 71,
+    "name": "Victreebel",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 12,
+        "name": "Planta"
+      },
+      {
+        "id": 4,
+        "name": "Veneno"
+      }
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": 105
+    }
+  },
+  {
+    "id": 72,
+    "name": "Tentacool",
+    "captureRate": 190,
+    "types": [
+      {
+        "id": 11,
+        "name": "Agua"
+      },
+      {
+        "id": 4,
+        "name": "Veneno"
+      }
+    ],
+    "stats": {
+      "hp": 40,
+      "attack": 50
+    }
+  },
+  {
+    "id": 73,
+    "name": "Tentacruel",
+    "captureRate": 60,
+    "types": [
+      {
+        "id": 11,
+        "name": "Agua"
+      },
+      {
+        "id": 4,
+        "name": "Veneno"
+      }
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": 80
+    }
+  },
+  {
+    "id": 74,
+    "name": "Geodude",
+    "captureRate": 255,
+    "types": [
+      {
+        "id": 6,
+        "name": "Roca"
+      },
+      {
+        "id": 5,
+        "name": "Tierra"
+      }
+    ],
+    "stats": {
+      "hp": 40,
+      "attack": 80
+    }
+  },
+  {
+    "id": 75,
+    "name": "Graveler",
+    "captureRate": 120,
+    "types": [
+      {
+        "id": 6,
+        "name": "Roca"
+      },
+      {
+        "id": 5,
+        "name": "Tierra"
+      }
+    ],
+    "stats": {
+      "hp": 55,
+      "attack": 95
+    }
+  },
+  {
+    "id": 76,
+    "name": "Golem",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 6,
+        "name": "Roca"
+      },
+      {
+        "id": 5,
+        "name": "Tierra"
+      }
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": 120
+    }
+  },
+  {
+    "id": 77,
+    "name": "Ponyta",
+    "captureRate": 190,
+    "types": [
+      {
+        "id": 10,
+        "name": "Fuego"
+      }
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 85
+    }
+  },
+  {
+    "id": 78,
+    "name": "Rapidash",
+    "captureRate": 60,
+    "types": [
+      {
+        "id": 10,
+        "name": "Fuego"
+      }
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 100
+    }
+  },
+  {
+    "id": 79,
+    "name": "Slowpoke",
+    "captureRate": 190,
+    "types": [
+      {
+        "id": 14,
+        "name": "Psíquico"
+      },
+      {
+        "id": 11,
+        "name": "Agua"
+      }
+    ],
+    "stats": {
+      "hp": 90,
+      "attack": 65
+    }
+  },
+  {
+    "id": 80,
+    "name": "Slowbro",
+    "captureRate": 75,
+    "types": [
+      {
+        "id": 11,
+        "name": "Agua"
+      },
+      {
+        "id": 14,
+        "name": "Psíquico"
+      }
+    ],
+    "stats": {
+      "hp": 95,
+      "attack": 100
+    }
+  },
+  {
+    "id": 81,
+    "name": "Magnemite",
+    "captureRate": 190,
+    "types": [
+      {
+        "id": 13,
+        "name": "Eléctrico"
+      },
+      {
+        "id": 9,
+        "name": "Acero"
+      }
+    ],
+    "stats": {
+      "hp": 25,
+      "attack": 95
+    }
+  },
+  {
+    "id": 82,
+    "name": "Magneton",
+    "captureRate": 60,
+    "types": [
+      {
+        "id": 13,
+        "name": "Eléctrico"
+      },
+      {
+        "id": 9,
+        "name": "Acero"
+      }
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 120
+    }
+  },
+  {
+    "id": 83,
+    "name": "Farfetch’d",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 1,
+        "name": "Normal"
+      },
+      {
+        "id": 3,
+        "name": "Volador"
+      }
+    ],
+    "stats": {
+      "hp": 52,
+      "attack": 90
+    }
+  },
+  {
+    "id": 84,
+    "name": "Doduo",
+    "captureRate": 190,
+    "types": [
+      {
+        "id": 1,
+        "name": "Normal"
+      },
+      {
+        "id": 3,
+        "name": "Volador"
+      }
+    ],
+    "stats": {
+      "hp": 35,
+      "attack": 85
+    }
+  },
+  {
+    "id": 85,
+    "name": "Dodrio",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 1,
+        "name": "Normal"
+      },
+      {
+        "id": 3,
+        "name": "Volador"
+      }
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 110
+    }
+  },
+  {
+    "id": 86,
+    "name": "Seel",
+    "captureRate": 190,
+    "types": [
+      {
+        "id": 11,
+        "name": "Agua"
+      }
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 45
+    }
+  },
+  {
+    "id": 87,
+    "name": "Dewgong",
+    "captureRate": 75,
+    "types": [
+      {
+        "id": 11,
+        "name": "Agua"
+      },
+      {
+        "id": 15,
+        "name": "Hielo"
+      }
+    ],
+    "stats": {
+      "hp": 90,
+      "attack": 70
+    }
+  },
+  {
+    "id": 88,
+    "name": "Grimer",
+    "captureRate": 190,
+    "types": [
+      {
+        "id": 4,
+        "name": "Veneno"
+      }
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": 80
+    }
+  },
+  {
+    "id": 89,
+    "name": "Muk",
+    "captureRate": 75,
+    "types": [
+      {
+        "id": 4,
+        "name": "Veneno"
+      }
+    ],
+    "stats": {
+      "hp": 105,
+      "attack": 105
+    }
+  },
+  {
+    "id": 90,
+    "name": "Shellder",
+    "captureRate": 190,
+    "types": [
+      {
+        "id": 11,
+        "name": "Agua"
+      }
+    ],
+    "stats": {
+      "hp": 30,
+      "attack": 65
+    }
+  },
+  {
+    "id": 91,
+    "name": "Cloyster",
+    "captureRate": 60,
+    "types": [
+      {
+        "id": 11,
+        "name": "Agua"
+      },
+      {
+        "id": 15,
+        "name": "Hielo"
+      }
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 95
+    }
+  },
+  {
+    "id": 92,
+    "name": "Gastly",
+    "captureRate": 190,
+    "types": [
+      {
+        "id": 8,
+        "name": "Fantasma"
+      },
+      {
+        "id": 4,
+        "name": "Veneno"
+      }
+    ],
+    "stats": {
+      "hp": 30,
+      "attack": 100
+    }
+  },
+  {
+    "id": 93,
+    "name": "Haunter",
+    "captureRate": 90,
+    "types": [
+      {
+        "id": 8,
+        "name": "Fantasma"
+      },
+      {
+        "id": 4,
+        "name": "Veneno"
+      }
+    ],
+    "stats": {
+      "hp": 45,
+      "attack": 115
+    }
+  },
+  {
+    "id": 94,
+    "name": "Gengar",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 8,
+        "name": "Fantasma"
+      },
+      {
+        "id": 4,
+        "name": "Veneno"
+      }
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 130
+    }
+  },
+  {
+    "id": 95,
+    "name": "Onix",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 6,
+        "name": "Roca"
+      },
+      {
+        "id": 5,
+        "name": "Tierra"
+      }
+    ],
+    "stats": {
+      "hp": 35,
+      "attack": 45
+    }
+  },
+  {
+    "id": 96,
+    "name": "Drowzee",
+    "captureRate": 190,
+    "types": [
+      {
+        "id": 14,
+        "name": "Psíquico"
+      }
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 48
+    }
+  },
+  {
+    "id": 97,
+    "name": "Hypno",
+    "captureRate": 75,
+    "types": [
+      {
+        "id": 14,
+        "name": "Psíquico"
+      }
+    ],
+    "stats": {
+      "hp": 85,
+      "attack": 73
+    }
+  },
+  {
+    "id": 98,
+    "name": "Krabby",
+    "captureRate": 225,
+    "types": [
+      {
+        "id": 11,
+        "name": "Agua"
+      }
+    ],
+    "stats": {
+      "hp": 30,
+      "attack": 105
+    }
+  },
+  {
+    "id": 99,
+    "name": "Kingler",
+    "captureRate": 60,
+    "types": [
+      {
+        "id": 11,
+        "name": "Agua"
+      }
+    ],
+    "stats": {
+      "hp": 55,
+      "attack": 130
+    }
+  },
+  {
+    "id": 100,
+    "name": "Voltorb",
+    "captureRate": 190,
+    "types": [
+      {
+        "id": 13,
+        "name": "Eléctrico"
+      }
+    ],
+    "stats": {
+      "hp": 40,
+      "attack": 55
+    }
+  },
+  {
+    "id": 101,
+    "name": "Electrode",
+    "captureRate": 60,
+    "types": [
+      {
+        "id": 13,
+        "name": "Eléctrico"
+      }
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 80
+    }
+  },
+  {
+    "id": 102,
+    "name": "Exeggcute",
+    "captureRate": 90,
+    "types": [
+      {
+        "id": 12,
+        "name": "Planta"
+      },
+      {
+        "id": 14,
+        "name": "Psíquico"
+      }
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 60
+    }
+  },
+  {
+    "id": 103,
+    "name": "Exeggutor",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 12,
+        "name": "Planta"
+      },
+      {
+        "id": 14,
+        "name": "Psíquico"
+      }
+    ],
+    "stats": {
+      "hp": 95,
+      "attack": 125
+    }
+  },
+  {
+    "id": 104,
+    "name": "Cubone",
+    "captureRate": 190,
+    "types": [
+      {
+        "id": 5,
+        "name": "Tierra"
+      }
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 50
+    }
+  },
+  {
+    "id": 105,
+    "name": "Marowak",
+    "captureRate": 75,
+    "types": [
+      {
+        "id": 5,
+        "name": "Tierra"
+      }
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 80
+    }
+  },
+  {
+    "id": 106,
+    "name": "Hitmonlee",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 2,
+        "name": "Lucha"
+      }
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 120
+    }
+  },
+  {
+    "id": 107,
+    "name": "Hitmonchan",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 2,
+        "name": "Lucha"
+      }
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 105
+    }
+  },
+  {
+    "id": 108,
+    "name": "Lickitung",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 1,
+        "name": "Normal"
+      }
+    ],
+    "stats": {
+      "hp": 90,
+      "attack": 60
+    }
+  },
+  {
+    "id": 109,
+    "name": "Koffing",
+    "captureRate": 190,
+    "types": [
+      {
+        "id": 4,
+        "name": "Veneno"
+      }
+    ],
+    "stats": {
+      "hp": 40,
+      "attack": 65
+    }
+  },
+  {
+    "id": 110,
+    "name": "Weezing",
+    "captureRate": 60,
+    "types": [
+      {
+        "id": 4,
+        "name": "Veneno"
+      }
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 90
+    }
+  },
+  {
+    "id": 111,
+    "name": "Rhyhorn",
+    "captureRate": 120,
+    "types": [
+      {
+        "id": 5,
+        "name": "Tierra"
+      },
+      {
+        "id": 6,
+        "name": "Roca"
+      }
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": 85
+    }
+  },
+  {
+    "id": 112,
+    "name": "Rhydon",
+    "captureRate": 60,
+    "types": [
+      {
+        "id": 5,
+        "name": "Tierra"
+      },
+      {
+        "id": 6,
+        "name": "Roca"
+      }
+    ],
+    "stats": {
+      "hp": 105,
+      "attack": 130
+    }
+  },
+  {
+    "id": 113,
+    "name": "Chansey",
+    "captureRate": 30,
+    "types": [
+      {
+        "id": 1,
+        "name": "Normal"
+      }
+    ],
+    "stats": {
+      "hp": 250,
+      "attack": 35
+    }
+  },
+  {
+    "id": 114,
+    "name": "Tangela",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 12,
+        "name": "Planta"
+      }
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 100
+    }
+  },
+  {
+    "id": 115,
+    "name": "Kangaskhan",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 1,
+        "name": "Normal"
+      }
+    ],
+    "stats": {
+      "hp": 105,
+      "attack": 95
+    }
+  },
+  {
+    "id": 116,
+    "name": "Horsea",
+    "captureRate": 225,
+    "types": [
+      {
+        "id": 11,
+        "name": "Agua"
+      }
+    ],
+    "stats": {
+      "hp": 30,
+      "attack": 70
+    }
+  },
+  {
+    "id": 117,
+    "name": "Seadra",
+    "captureRate": 75,
+    "types": [
+      {
+        "id": 11,
+        "name": "Agua"
+      }
+    ],
+    "stats": {
+      "hp": 55,
+      "attack": 95
+    }
+  },
+  {
+    "id": 118,
+    "name": "Goldeen",
+    "captureRate": 225,
+    "types": [
+      {
+        "id": 11,
+        "name": "Agua"
+      }
+    ],
+    "stats": {
+      "hp": 45,
+      "attack": 67
+    }
+  },
+  {
+    "id": 119,
+    "name": "Seaking",
+    "captureRate": 60,
+    "types": [
+      {
+        "id": 11,
+        "name": "Agua"
+      }
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": 92
+    }
+  },
+  {
+    "id": 120,
+    "name": "Staryu",
+    "captureRate": 225,
+    "types": [
+      {
+        "id": 11,
+        "name": "Agua"
+      }
+    ],
+    "stats": {
+      "hp": 30,
+      "attack": 70
+    }
+  },
+  {
+    "id": 121,
+    "name": "Starmie",
+    "captureRate": 60,
+    "types": [
+      {
+        "id": 11,
+        "name": "Agua"
+      },
+      {
+        "id": 14,
+        "name": "Psíquico"
+      }
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 100
+    }
+  },
+  {
+    "id": 122,
+    "name": "Mr. Mime",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 14,
+        "name": "Psíquico"
+      },
+      {
+        "id": 18,
+        "name": "Hada"
+      }
+    ],
+    "stats": {
+      "hp": 40,
+      "attack": 100
+    }
+  },
+  {
+    "id": 123,
+    "name": "Scyther",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 7,
+        "name": "Bicho"
+      },
+      {
+        "id": 3,
+        "name": "Volador"
+      }
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 110
+    }
+  },
+  {
+    "id": 124,
+    "name": "Jynx",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 15,
+        "name": "Hielo"
+      },
+      {
+        "id": 14,
+        "name": "Psíquico"
+      }
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 115
+    }
+  },
+  {
+    "id": 125,
+    "name": "Electabuzz",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 13,
+        "name": "Eléctrico"
+      }
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 95
+    }
+  },
+  {
+    "id": 126,
+    "name": "Magmar",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 10,
+        "name": "Fuego"
+      }
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 100
+    }
+  },
+  {
+    "id": 127,
+    "name": "Pinsir",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 7,
+        "name": "Bicho"
+      }
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 125
+    }
+  },
+  {
+    "id": 128,
+    "name": "Tauros",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 1,
+        "name": "Normal"
+      }
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": 100
+    }
+  },
+  {
+    "id": 129,
+    "name": "Magikarp",
+    "captureRate": 255,
+    "types": [
+      {
+        "id": 11,
+        "name": "Agua"
+      }
+    ],
+    "stats": {
+      "hp": 20,
+      "attack": 15
+    }
+  },
+  {
+    "id": 130,
+    "name": "Gyarados",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 11,
+        "name": "Agua"
+      },
+      {
+        "id": 3,
+        "name": "Volador"
+      }
+    ],
+    "stats": {
+      "hp": 95,
+      "attack": 125
+    }
+  },
+  {
+    "id": 131,
+    "name": "Lapras",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 11,
+        "name": "Agua"
+      },
+      {
+        "id": 15,
+        "name": "Hielo"
+      }
+    ],
+    "stats": {
+      "hp": 130,
+      "attack": 85
+    }
+  },
+  {
+    "id": 132,
+    "name": "Ditto",
+    "captureRate": 35,
+    "types": [
+      {
+        "id": 1,
+        "name": "Normal"
+      }
+    ],
+    "stats": {
+      "hp": 48,
+      "attack": 48
+    }
+  },
+  {
+    "id": 133,
+    "name": "Eevee",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 1,
+        "name": "Normal"
+      }
+    ],
+    "stats": {
+      "hp": 55,
+      "attack": 55
+    }
+  },
+  {
+    "id": 134,
+    "name": "Vaporeon",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 11,
+        "name": "Agua"
+      }
+    ],
+    "stats": {
+      "hp": 130,
+      "attack": 110
+    }
+  },
+  {
+    "id": 135,
+    "name": "Jolteon",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 13,
+        "name": "Eléctrico"
+      }
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 110
+    }
+  },
+  {
+    "id": 136,
+    "name": "Flareon",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 10,
+        "name": "Fuego"
+      }
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 130
+    }
+  },
+  {
+    "id": 137,
+    "name": "Porygon",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 1,
+        "name": "Normal"
+      }
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 85
+    }
+  },
+  {
+    "id": 138,
+    "name": "Omanyte",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 6,
+        "name": "Roca"
+      },
+      {
+        "id": 11,
+        "name": "Agua"
+      }
+    ],
+    "stats": {
+      "hp": 35,
+      "attack": 90
+    }
+  },
+  {
+    "id": 139,
+    "name": "Omastar",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 6,
+        "name": "Roca"
+      },
+      {
+        "id": 11,
+        "name": "Agua"
+      }
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 115
+    }
+  },
+  {
+    "id": 140,
+    "name": "Kabuto",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 6,
+        "name": "Roca"
+      },
+      {
+        "id": 11,
+        "name": "Agua"
+      }
+    ],
+    "stats": {
+      "hp": 30,
+      "attack": 80
+    }
+  },
+  {
+    "id": 141,
+    "name": "Kabutops",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 6,
+        "name": "Roca"
+      },
+      {
+        "id": 11,
+        "name": "Agua"
+      }
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 115
+    }
+  },
+  {
+    "id": 142,
+    "name": "Aerodactyl",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 6,
+        "name": "Roca"
+      },
+      {
+        "id": 3,
+        "name": "Volador"
+      }
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": 105
+    }
+  },
+  {
+    "id": 143,
+    "name": "Snorlax",
+    "captureRate": 25,
+    "types": [
+      {
+        "id": 1,
+        "name": "Normal"
+      }
+    ],
+    "stats": {
+      "hp": 160,
+      "attack": 110
+    }
+  },
+  {
+    "id": 144,
+    "name": "Articuno",
+    "captureRate": 3,
+    "types": [
+      {
+        "id": 15,
+        "name": "Hielo"
+      },
+      {
+        "id": 3,
+        "name": "Volador"
+      }
+    ],
+    "stats": {
+      "hp": 90,
+      "attack": 95
+    }
+  },
+  {
+    "id": 145,
+    "name": "Zapdos",
+    "captureRate": 3,
+    "types": [
+      {
+        "id": 13,
+        "name": "Eléctrico"
+      },
+      {
+        "id": 3,
+        "name": "Volador"
+      }
+    ],
+    "stats": {
+      "hp": 90,
+      "attack": 125
+    }
+  },
+  {
+    "id": 146,
+    "name": "Moltres",
+    "captureRate": 3,
+    "types": [
+      {
+        "id": 10,
+        "name": "Fuego"
+      },
+      {
+        "id": 3,
+        "name": "Volador"
+      }
+    ],
+    "stats": {
+      "hp": 90,
+      "attack": 125
+    }
+  },
+  {
+    "id": 147,
+    "name": "Dratini",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 16,
+        "name": "Dragón"
+      }
+    ],
+    "stats": {
+      "hp": 41,
+      "attack": 64
+    }
+  },
+  {
+    "id": 148,
+    "name": "Dragonair",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 16,
+        "name": "Dragón"
+      }
+    ],
+    "stats": {
+      "hp": 61,
+      "attack": 84
+    }
+  },
+  {
+    "id": 149,
+    "name": "Dragonite",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 16,
+        "name": "Dragón"
+      },
+      {
+        "id": 3,
+        "name": "Volador"
+      }
+    ],
+    "stats": {
+      "hp": 91,
+      "attack": 134
+    }
+  },
+  {
+    "id": 150,
+    "name": "Mewtwo",
+    "captureRate": 3,
+    "types": [
+      {
+        "id": 14,
+        "name": "Psíquico"
+      }
+    ],
+    "stats": {
+      "hp": 106,
+      "attack": 154
+    }
+  },
+  {
+    "id": 151,
+    "name": "Mew",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 14,
+        "name": "Psíquico"
+      }
+    ],
+    "stats": {
+      "hp": 100,
+      "attack": 100
+    }
+  },
+  {
+    "id": 152,
+    "name": "Chikorita",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 12,
+        "name": "Planta"
+      }
+    ],
+    "stats": {
+      "hp": 45,
+      "attack": 49
+    }
+  },
+  {
+    "id": 153,
+    "name": "Bayleef",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 12,
+        "name": "Planta"
+      }
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 63
+    }
+  },
+  {
+    "id": 154,
+    "name": "Meganium",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 12,
+        "name": "Planta"
+      }
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": 83
+    }
+  },
+  {
+    "id": 155,
+    "name": "Cyndaquil",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 10,
+        "name": "Fuego"
+      }
+    ],
+    "stats": {
+      "hp": 39,
+      "attack": 60
+    }
+  },
+  {
+    "id": 156,
+    "name": "Quilava",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 10,
+        "name": "Fuego"
+      }
+    ],
+    "stats": {
+      "hp": 58,
+      "attack": 80
+    }
+  },
+  {
+    "id": 157,
+    "name": "Typhlosion",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 10,
+        "name": "Fuego"
+      }
+    ],
+    "stats": {
+      "hp": 78,
+      "attack": 109
+    }
+  },
+  {
+    "id": 158,
+    "name": "Totodile",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 11,
+        "name": "Agua"
+      }
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 65
+    }
+  },
+  {
+    "id": 159,
+    "name": "Croconaw",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 11,
+        "name": "Agua"
+      }
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 80
+    }
+  },
+  {
+    "id": 160,
+    "name": "Feraligatr",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 11,
+        "name": "Agua"
+      }
+    ],
+    "stats": {
+      "hp": 85,
+      "attack": 105
+    }
+  },
+  {
+    "id": 161,
+    "name": "Sentret",
+    "captureRate": 255,
+    "types": [
+      {
+        "id": 1,
+        "name": "Normal"
+      }
+    ],
+    "stats": {
+      "hp": 35,
+      "attack": 46
+    }
+  },
+  {
+    "id": 162,
+    "name": "Furret",
+    "captureRate": 90,
+    "types": [
+      {
+        "id": 1,
+        "name": "Normal"
+      }
+    ],
+    "stats": {
+      "hp": 85,
+      "attack": 76
+    }
+  },
+  {
+    "id": 163,
+    "name": "Hoothoot",
+    "captureRate": 255,
+    "types": [
+      {
+        "id": 1,
+        "name": "Normal"
+      },
+      {
+        "id": 3,
+        "name": "Volador"
+      }
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 36
+    }
+  },
+  {
+    "id": 164,
+    "name": "Noctowl",
+    "captureRate": 90,
+    "types": [
+      {
+        "id": 1,
+        "name": "Normal"
+      },
+      {
+        "id": 3,
+        "name": "Volador"
+      }
+    ],
+    "stats": {
+      "hp": 100,
+      "attack": 86
+    }
+  },
+  {
+    "id": 165,
+    "name": "Ledyba",
+    "captureRate": 255,
+    "types": [
+      {
+        "id": 3,
+        "name": "Volador"
+      },
+      {
+        "id": 7,
+        "name": "Bicho"
+      }
+    ],
+    "stats": {
+      "hp": 40,
+      "attack": 40
+    }
+  },
+  {
+    "id": 166,
+    "name": "Ledian",
+    "captureRate": 90,
+    "types": [
+      {
+        "id": 7,
+        "name": "Bicho"
+      },
+      {
+        "id": 3,
+        "name": "Volador"
+      }
+    ],
+    "stats": {
+      "hp": 55,
+      "attack": 55
+    }
+  },
+  {
+    "id": 167,
+    "name": "Spinarak",
+    "captureRate": 255,
+    "types": [
+      {
+        "id": 7,
+        "name": "Bicho"
+      },
+      {
+        "id": 4,
+        "name": "Veneno"
+      }
+    ],
+    "stats": {
+      "hp": 40,
+      "attack": 60
+    }
+  },
+  {
+    "id": 168,
+    "name": "Ariados",
+    "captureRate": 90,
+    "types": [
+      {
+        "id": 7,
+        "name": "Bicho"
+      },
+      {
+        "id": 4,
+        "name": "Veneno"
+      }
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 90
+    }
+  },
+  {
+    "id": 169,
+    "name": "Crobat",
+    "captureRate": 90,
+    "types": [
+      {
+        "id": 4,
+        "name": "Veneno"
+      },
+      {
+        "id": 3,
+        "name": "Volador"
+      }
+    ],
+    "stats": {
+      "hp": 85,
+      "attack": 90
+    }
+  },
+  {
+    "id": 170,
+    "name": "Chinchou",
+    "captureRate": 190,
+    "types": [
+      {
+        "id": 11,
+        "name": "Agua"
+      },
+      {
+        "id": 13,
+        "name": "Eléctrico"
+      }
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": 56
+    }
+  },
+  {
+    "id": 171,
+    "name": "Lanturn",
+    "captureRate": 75,
+    "types": [
+      {
+        "id": 11,
+        "name": "Agua"
+      },
+      {
+        "id": 13,
+        "name": "Eléctrico"
+      }
+    ],
+    "stats": {
+      "hp": 125,
+      "attack": 76
+    }
+  },
+  {
+    "id": 172,
+    "name": "Pichu",
+    "captureRate": 190,
+    "types": [
+      {
+        "id": 13,
+        "name": "Eléctrico"
+      }
+    ],
+    "stats": {
+      "hp": 20,
+      "attack": 40
+    }
+  },
+  {
+    "id": 173,
+    "name": "Cleffa",
+    "captureRate": 150,
+    "types": [
+      {
+        "id": 18,
+        "name": "Hada"
+      }
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 45
+    }
+  },
+  {
+    "id": 174,
+    "name": "Igglybuff",
+    "captureRate": 170,
+    "types": [
+      {
+        "id": 1,
+        "name": "Normal"
+      },
+      {
+        "id": 18,
+        "name": "Hada"
+      }
+    ],
+    "stats": {
+      "hp": 90,
+      "attack": 40
+    }
+  },
+  {
+    "id": 175,
+    "name": "Togepi",
+    "captureRate": 190,
+    "types": [
+      {
+        "id": 18,
+        "name": "Hada"
+      }
+    ],
+    "stats": {
+      "hp": 35,
+      "attack": 40
+    }
+  },
+  {
+    "id": 176,
+    "name": "Togetic",
+    "captureRate": 75,
+    "types": [
+      {
+        "id": 18,
+        "name": "Hada"
+      },
+      {
+        "id": 3,
+        "name": "Volador"
+      }
+    ],
+    "stats": {
+      "hp": 55,
+      "attack": 80
+    }
+  },
+  {
+    "id": 177,
+    "name": "Natu",
+    "captureRate": 190,
+    "types": [
+      {
+        "id": 14,
+        "name": "Psíquico"
+      },
+      {
+        "id": 3,
+        "name": "Volador"
+      }
+    ],
+    "stats": {
+      "hp": 40,
+      "attack": 70
+    }
+  },
+  {
+    "id": 178,
+    "name": "Xatu",
+    "captureRate": 75,
+    "types": [
+      {
+        "id": 14,
+        "name": "Psíquico"
+      },
+      {
+        "id": 3,
+        "name": "Volador"
+      }
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 95
+    }
+  },
+  {
+    "id": 179,
+    "name": "Mareep",
+    "captureRate": 235,
+    "types": [
+      {
+        "id": 13,
+        "name": "Eléctrico"
+      }
+    ],
+    "stats": {
+      "hp": 55,
+      "attack": 65
+    }
+  },
+  {
+    "id": 180,
+    "name": "Flaaffy",
+    "captureRate": 120,
+    "types": [
+      {
+        "id": 13,
+        "name": "Eléctrico"
+      }
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 80
+    }
+  },
+  {
+    "id": 181,
+    "name": "Ampharos",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 13,
+        "name": "Eléctrico"
+      }
+    ],
+    "stats": {
+      "hp": 90,
+      "attack": 115
+    }
+  },
+  {
+    "id": 182,
+    "name": "Bellossom",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 12,
+        "name": "Planta"
+      }
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": 90
+    }
+  },
+  {
+    "id": 183,
+    "name": "Marill",
+    "captureRate": 190,
+    "types": [
+      {
+        "id": 18,
+        "name": "Hada"
+      },
+      {
+        "id": 11,
+        "name": "Agua"
+      }
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 20
+    }
+  },
+  {
+    "id": 184,
+    "name": "Azumarill",
+    "captureRate": 75,
+    "types": [
+      {
+        "id": 11,
+        "name": "Agua"
+      },
+      {
+        "id": 18,
+        "name": "Hada"
+      }
+    ],
+    "stats": {
+      "hp": 100,
+      "attack": 60
+    }
+  },
+  {
+    "id": 185,
+    "name": "Sudowoodo",
+    "captureRate": 65,
+    "types": [
+      {
+        "id": 6,
+        "name": "Roca"
+      }
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 100
+    }
+  },
+  {
+    "id": 186,
+    "name": "Politoed",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 11,
+        "name": "Agua"
+      }
+    ],
+    "stats": {
+      "hp": 90,
+      "attack": 90
+    }
+  },
+  {
+    "id": 187,
+    "name": "Hoppip",
+    "captureRate": 255,
+    "types": [
+      {
+        "id": 12,
+        "name": "Planta"
+      },
+      {
+        "id": 3,
+        "name": "Volador"
+      }
+    ],
+    "stats": {
+      "hp": 35,
+      "attack": 35
+    }
+  },
+  {
+    "id": 188,
+    "name": "Skiploom",
+    "captureRate": 120,
+    "types": [
+      {
+        "id": 12,
+        "name": "Planta"
+      },
+      {
+        "id": 3,
+        "name": "Volador"
+      }
+    ],
+    "stats": {
+      "hp": 55,
+      "attack": 45
+    }
+  },
+  {
+    "id": 189,
+    "name": "Jumpluff",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 12,
+        "name": "Planta"
+      },
+      {
+        "id": 3,
+        "name": "Volador"
+      }
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": 55
+    }
+  },
+  {
+    "id": 190,
+    "name": "Aipom",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 1,
+        "name": "Normal"
+      }
+    ],
+    "stats": {
+      "hp": 55,
+      "attack": 70
+    }
+  },
+  {
+    "id": 191,
+    "name": "Sunkern",
+    "captureRate": 235,
+    "types": [
+      {
+        "id": 12,
+        "name": "Planta"
+      }
+    ],
+    "stats": {
+      "hp": 30,
+      "attack": 30
+    }
+  },
+  {
+    "id": 192,
+    "name": "Sunflora",
+    "captureRate": 120,
+    "types": [
+      {
+        "id": 12,
+        "name": "Planta"
+      }
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": 105
+    }
+  },
+  {
+    "id": 193,
+    "name": "Yanma",
+    "captureRate": 75,
+    "types": [
+      {
+        "id": 7,
+        "name": "Bicho"
+      },
+      {
+        "id": 3,
+        "name": "Volador"
+      }
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 75
+    }
+  },
+  {
+    "id": 194,
+    "name": "Wooper",
+    "captureRate": 255,
+    "types": [
+      {
+        "id": 11,
+        "name": "Agua"
+      },
+      {
+        "id": 5,
+        "name": "Tierra"
+      }
+    ],
+    "stats": {
+      "hp": 55,
+      "attack": 45
+    }
+  },
+  {
+    "id": 195,
+    "name": "Quagsire",
+    "captureRate": 90,
+    "types": [
+      {
+        "id": 11,
+        "name": "Agua"
+      },
+      {
+        "id": 5,
+        "name": "Tierra"
+      }
+    ],
+    "stats": {
+      "hp": 95,
+      "attack": 85
+    }
+  },
+  {
+    "id": 196,
+    "name": "Espeon",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 14,
+        "name": "Psíquico"
+      }
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 130
+    }
+  },
+  {
+    "id": 197,
+    "name": "Umbreon",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 17,
+        "name": "Siniestro"
+      }
+    ],
+    "stats": {
+      "hp": 95,
+      "attack": 65
+    }
+  },
+  {
+    "id": 198,
+    "name": "Murkrow",
+    "captureRate": 30,
+    "types": [
+      {
+        "id": 3,
+        "name": "Volador"
+      },
+      {
+        "id": 17,
+        "name": "Siniestro"
+      }
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 85
+    }
+  },
+  {
+    "id": 199,
+    "name": "Slowking",
+    "captureRate": 70,
+    "types": [
+      {
+        "id": 14,
+        "name": "Psíquico"
+      },
+      {
+        "id": 11,
+        "name": "Agua"
+      }
+    ],
+    "stats": {
+      "hp": 95,
+      "attack": 100
+    }
+  },
+  {
+    "id": 200,
+    "name": "Misdreavus",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 8,
+        "name": "Fantasma"
+      }
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 85
+    }
+  },
+  {
+    "id": 201,
+    "name": "Unown",
+    "captureRate": 225,
+    "types": [
+      {
+        "id": 14,
+        "name": "Psíquico"
+      }
+    ],
+    "stats": {
+      "hp": 48,
+      "attack": 72
+    }
+  },
+  {
+    "id": 202,
+    "name": "Wobbuffet",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 14,
+        "name": "Psíquico"
+      }
+    ],
+    "stats": {
+      "hp": 190,
+      "attack": 33
+    }
+  },
+  {
+    "id": 203,
+    "name": "Girafarig",
+    "captureRate": 60,
+    "types": [
+      {
+        "id": 1,
+        "name": "Normal"
+      },
+      {
+        "id": 14,
+        "name": "Psíquico"
+      }
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 90
+    }
+  },
+  {
+    "id": 204,
+    "name": "Pineco",
+    "captureRate": 190,
+    "types": [
+      {
+        "id": 7,
+        "name": "Bicho"
+      }
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 65
+    }
+  },
+  {
+    "id": 205,
+    "name": "Forretress",
+    "captureRate": 75,
+    "types": [
+      {
+        "id": 9,
+        "name": "Acero"
+      },
+      {
+        "id": 7,
+        "name": "Bicho"
+      }
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": 90
+    }
+  },
+  {
+    "id": 206,
+    "name": "Dunsparce",
+    "captureRate": 190,
+    "types": [
+      {
+        "id": 1,
+        "name": "Normal"
+      }
+    ],
+    "stats": {
+      "hp": 100,
+      "attack": 70
+    }
+  },
+  {
+    "id": 207,
+    "name": "Gligar",
+    "captureRate": 60,
+    "types": [
+      {
+        "id": 5,
+        "name": "Tierra"
+      },
+      {
+        "id": 3,
+        "name": "Volador"
+      }
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 75
+    }
+  },
+  {
+    "id": 208,
+    "name": "Steelix",
+    "captureRate": 25,
+    "types": [
+      {
+        "id": 5,
+        "name": "Tierra"
+      },
+      {
+        "id": 9,
+        "name": "Acero"
+      }
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": 85
+    }
+  },
+  {
+    "id": 209,
+    "name": "Snubbull",
+    "captureRate": 190,
+    "types": [
+      {
+        "id": 18,
+        "name": "Hada"
+      }
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 80
+    }
+  },
+  {
+    "id": 210,
+    "name": "Granbull",
+    "captureRate": 75,
+    "types": [
+      {
+        "id": 18,
+        "name": "Hada"
+      }
+    ],
+    "stats": {
+      "hp": 90,
+      "attack": 120
+    }
+  },
+  {
+    "id": 211,
+    "name": "Qwilfish",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 4,
+        "name": "Veneno"
+      },
+      {
+        "id": 11,
+        "name": "Agua"
+      }
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 95
+    }
+  },
+  {
+    "id": 212,
+    "name": "Scizor",
+    "captureRate": 25,
+    "types": [
+      {
+        "id": 7,
+        "name": "Bicho"
+      },
+      {
+        "id": 9,
+        "name": "Acero"
+      }
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 130
+    }
+  },
+  {
+    "id": 213,
+    "name": "Shuckle",
+    "captureRate": 190,
+    "types": [
+      {
+        "id": 6,
+        "name": "Roca"
+      },
+      {
+        "id": 7,
+        "name": "Bicho"
+      }
+    ],
+    "stats": {
+      "hp": 20,
+      "attack": 10
+    }
+  },
+  {
+    "id": 214,
+    "name": "Heracross",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 7,
+        "name": "Bicho"
+      },
+      {
+        "id": 2,
+        "name": "Lucha"
+      }
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": 125
+    }
+  },
+  {
+    "id": 215,
+    "name": "Sneasel",
+    "captureRate": 60,
+    "types": [
+      {
+        "id": 17,
+        "name": "Siniestro"
+      },
+      {
+        "id": 15,
+        "name": "Hielo"
+      }
+    ],
+    "stats": {
+      "hp": 55,
+      "attack": 95
+    }
+  },
+  {
+    "id": 216,
+    "name": "Teddiursa",
+    "captureRate": 120,
+    "types": [
+      {
+        "id": 1,
+        "name": "Normal"
+      }
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 80
+    }
+  },
+  {
+    "id": 217,
+    "name": "Ursaring",
+    "captureRate": 60,
+    "types": [
+      {
+        "id": 1,
+        "name": "Normal"
+      }
+    ],
+    "stats": {
+      "hp": 90,
+      "attack": 130
+    }
+  },
+  {
+    "id": 218,
+    "name": "Slugma",
+    "captureRate": 190,
+    "types": [
+      {
+        "id": 10,
+        "name": "Fuego"
+      }
+    ],
+    "stats": {
+      "hp": 40,
+      "attack": 70
+    }
+  },
+  {
+    "id": 219,
+    "name": "Magcargo",
+    "captureRate": 75,
+    "types": [
+      {
+        "id": 6,
+        "name": "Roca"
+      },
+      {
+        "id": 10,
+        "name": "Fuego"
+      }
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 90
+    }
+  },
+  {
+    "id": 220,
+    "name": "Swinub",
+    "captureRate": 225,
+    "types": [
+      {
+        "id": 15,
+        "name": "Hielo"
+      },
+      {
+        "id": 5,
+        "name": "Tierra"
+      }
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 50
+    }
+  },
+  {
+    "id": 221,
+    "name": "Piloswine",
+    "captureRate": 75,
+    "types": [
+      {
+        "id": 15,
+        "name": "Hielo"
+      },
+      {
+        "id": 5,
+        "name": "Tierra"
+      }
+    ],
+    "stats": {
+      "hp": 100,
+      "attack": 100
+    }
+  },
+  {
+    "id": 222,
+    "name": "Corsola",
+    "captureRate": 60,
+    "types": [
+      {
+        "id": 11,
+        "name": "Agua"
+      },
+      {
+        "id": 6,
+        "name": "Roca"
+      }
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 65
+    }
+  },
+  {
+    "id": 223,
+    "name": "Remoraid",
+    "captureRate": 190,
+    "types": [
+      {
+        "id": 11,
+        "name": "Agua"
+      }
+    ],
+    "stats": {
+      "hp": 35,
+      "attack": 65
+    }
+  },
+  {
+    "id": 224,
+    "name": "Octillery",
+    "captureRate": 75,
+    "types": [
+      {
+        "id": 11,
+        "name": "Agua"
+      }
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": 105
+    }
+  },
+  {
+    "id": 225,
+    "name": "Delibird",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 15,
+        "name": "Hielo"
+      },
+      {
+        "id": 3,
+        "name": "Volador"
+      }
+    ],
+    "stats": {
+      "hp": 45,
+      "attack": 65
+    }
+  },
+  {
+    "id": 226,
+    "name": "Mantine",
+    "captureRate": 25,
+    "types": [
+      {
+        "id": 11,
+        "name": "Agua"
+      },
+      {
+        "id": 3,
+        "name": "Volador"
+      }
+    ],
+    "stats": {
+      "hp": 85,
+      "attack": 80
+    }
+  },
+  {
+    "id": 227,
+    "name": "Skarmory",
+    "captureRate": 25,
+    "types": [
+      {
+        "id": 9,
+        "name": "Acero"
+      },
+      {
+        "id": 3,
+        "name": "Volador"
+      }
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 80
+    }
+  },
+  {
+    "id": 228,
+    "name": "Houndour",
+    "captureRate": 120,
+    "types": [
+      {
+        "id": 17,
+        "name": "Siniestro"
+      },
+      {
+        "id": 10,
+        "name": "Fuego"
+      }
+    ],
+    "stats": {
+      "hp": 45,
+      "attack": 80
+    }
+  },
+  {
+    "id": 229,
+    "name": "Houndoom",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 17,
+        "name": "Siniestro"
+      },
+      {
+        "id": 10,
+        "name": "Fuego"
+      }
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": 110
+    }
+  },
+  {
+    "id": 230,
+    "name": "Kingdra",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 11,
+        "name": "Agua"
+      },
+      {
+        "id": 16,
+        "name": "Dragón"
+      }
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": 95
+    }
+  },
+  {
+    "id": 231,
+    "name": "Phanpy",
+    "captureRate": 120,
+    "types": [
+      {
+        "id": 5,
+        "name": "Tierra"
+      }
+    ],
+    "stats": {
+      "hp": 90,
+      "attack": 60
+    }
+  },
+  {
+    "id": 232,
+    "name": "Donphan",
+    "captureRate": 60,
+    "types": [
+      {
+        "id": 5,
+        "name": "Tierra"
+      }
+    ],
+    "stats": {
+      "hp": 90,
+      "attack": 120
+    }
+  },
+  {
+    "id": 233,
+    "name": "Porygon2",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 1,
+        "name": "Normal"
+      }
+    ],
+    "stats": {
+      "hp": 85,
+      "attack": 105
+    }
+  },
+  {
+    "id": 234,
+    "name": "Stantler",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 1,
+        "name": "Normal"
+      }
+    ],
+    "stats": {
+      "hp": 73,
+      "attack": 95
+    }
+  },
+  {
+    "id": 235,
+    "name": "Smeargle",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 1,
+        "name": "Normal"
+      }
+    ],
+    "stats": {
+      "hp": 55,
+      "attack": 20
+    }
+  },
+  {
+    "id": 236,
+    "name": "Tyrogue",
+    "captureRate": 75,
+    "types": [
+      {
+        "id": 2,
+        "name": "Lucha"
+      }
+    ],
+    "stats": {
+      "hp": 35,
+      "attack": 35
+    }
+  },
+  {
+    "id": 237,
+    "name": "Hitmontop",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 2,
+        "name": "Lucha"
+      }
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 95
+    }
+  },
+  {
+    "id": 238,
+    "name": "Smoochum",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 15,
+        "name": "Hielo"
+      },
+      {
+        "id": 14,
+        "name": "Psíquico"
+      }
+    ],
+    "stats": {
+      "hp": 45,
+      "attack": 85
+    }
+  },
+  {
+    "id": 239,
+    "name": "Elekid",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 13,
+        "name": "Eléctrico"
+      }
+    ],
+    "stats": {
+      "hp": 45,
+      "attack": 65
+    }
+  },
+  {
+    "id": 240,
+    "name": "Magby",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 10,
+        "name": "Fuego"
+      }
+    ],
+    "stats": {
+      "hp": 45,
+      "attack": 75
+    }
+  },
+  {
+    "id": 241,
+    "name": "Miltank",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 1,
+        "name": "Normal"
+      }
+    ],
+    "stats": {
+      "hp": 95,
+      "attack": 80
+    }
+  },
+  {
+    "id": 242,
+    "name": "Blissey",
+    "captureRate": 30,
+    "types": [
+      {
+        "id": 1,
+        "name": "Normal"
+      }
+    ],
+    "stats": {
+      "hp": 255,
+      "attack": 75
+    }
+  },
+  {
+    "id": 243,
+    "name": "Raikou",
+    "captureRate": 3,
+    "types": [
+      {
+        "id": 13,
+        "name": "Eléctrico"
+      }
+    ],
+    "stats": {
+      "hp": 90,
+      "attack": 115
+    }
+  },
+  {
+    "id": 244,
+    "name": "Entei",
+    "captureRate": 3,
+    "types": [
+      {
+        "id": 10,
+        "name": "Fuego"
+      }
+    ],
+    "stats": {
+      "hp": 115,
+      "attack": 115
+    }
+  },
+  {
+    "id": 245,
+    "name": "Suicune",
+    "captureRate": 3,
+    "types": [
+      {
+        "id": 11,
+        "name": "Agua"
+      }
+    ],
+    "stats": {
+      "hp": 100,
+      "attack": 90
+    }
+  },
+  {
+    "id": 246,
+    "name": "Larvitar",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 6,
+        "name": "Roca"
+      },
+      {
+        "id": 5,
+        "name": "Tierra"
+      }
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 64
+    }
+  },
+  {
+    "id": 247,
+    "name": "Pupitar",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 6,
+        "name": "Roca"
+      },
+      {
+        "id": 5,
+        "name": "Tierra"
+      }
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 84
+    }
+  },
+  {
+    "id": 248,
+    "name": "Tyranitar",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 6,
+        "name": "Roca"
+      },
+      {
+        "id": 17,
+        "name": "Siniestro"
+      }
+    ],
+    "stats": {
+      "hp": 100,
+      "attack": 134
+    }
+  },
+  {
+    "id": 249,
+    "name": "Lugia",
+    "captureRate": 3,
+    "types": [
+      {
+        "id": 14,
+        "name": "Psíquico"
+      },
+      {
+        "id": 3,
+        "name": "Volador"
+      }
+    ],
+    "stats": {
+      "hp": 106,
+      "attack": 90
+    }
+  },
+  {
+    "id": 250,
+    "name": "Ho-Oh",
+    "captureRate": 3,
+    "types": [
+      {
+        "id": 10,
+        "name": "Fuego"
+      },
+      {
+        "id": 3,
+        "name": "Volador"
+      }
+    ],
+    "stats": {
+      "hp": 106,
+      "attack": 130
+    }
+  },
+  {
+    "id": 251,
+    "name": "Celebi",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 14,
+        "name": "Psíquico"
+      },
+      {
+        "id": 12,
+        "name": "Planta"
+      }
+    ],
+    "stats": {
+      "hp": 100,
+      "attack": 100
+    }
+  },
+  {
+    "id": 252,
+    "name": "Treecko",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 12,
+        "name": "Planta"
+      }
+    ],
+    "stats": {
+      "hp": 40,
+      "attack": 65
+    }
+  },
+  {
+    "id": 253,
+    "name": "Grovyle",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 12,
+        "name": "Planta"
+      }
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 85
+    }
+  },
+  {
+    "id": 254,
+    "name": "Sceptile",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 12,
+        "name": "Planta"
+      }
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 105
+    }
+  },
+  {
+    "id": 255,
+    "name": "Torchic",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 10,
+        "name": "Fuego"
+      }
+    ],
+    "stats": {
+      "hp": 45,
+      "attack": 70
+    }
+  },
+  {
+    "id": 256,
+    "name": "Combusken",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 2,
+        "name": "Lucha"
+      },
+      {
+        "id": 10,
+        "name": "Fuego"
+      }
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 85
+    }
+  },
+  {
+    "id": 257,
+    "name": "Blaziken",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 2,
+        "name": "Lucha"
+      },
+      {
+        "id": 10,
+        "name": "Fuego"
+      }
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": 120
+    }
+  },
+  {
+    "id": 258,
+    "name": "Mudkip",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 11,
+        "name": "Agua"
+      }
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 70
+    }
+  },
+  {
+    "id": 259,
+    "name": "Marshtomp",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 5,
+        "name": "Tierra"
+      },
+      {
+        "id": 11,
+        "name": "Agua"
+      }
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 85
+    }
+  },
+  {
+    "id": 260,
+    "name": "Swampert",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 5,
+        "name": "Tierra"
+      },
+      {
+        "id": 11,
+        "name": "Agua"
+      }
+    ],
+    "stats": {
+      "hp": 100,
+      "attack": 110
+    }
+  },
+  {
+    "id": 261,
+    "name": "Poochyena",
+    "captureRate": 255,
+    "types": [
+      {
+        "id": 17,
+        "name": "Siniestro"
+      }
+    ],
+    "stats": {
+      "hp": 35,
+      "attack": 55
+    }
+  },
+  {
+    "id": 262,
+    "name": "Mightyena",
+    "captureRate": 127,
+    "types": [
+      {
+        "id": 17,
+        "name": "Siniestro"
+      }
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 90
+    }
+  },
+  {
+    "id": 263,
+    "name": "Zigzagoon",
+    "captureRate": 255,
+    "types": [
+      {
+        "id": 1,
+        "name": "Normal"
+      }
+    ],
+    "stats": {
+      "hp": 38,
+      "attack": 30
+    }
+  },
+  {
+    "id": 264,
+    "name": "Linoone",
+    "captureRate": 90,
+    "types": [
+      {
+        "id": 1,
+        "name": "Normal"
+      }
+    ],
+    "stats": {
+      "hp": 78,
+      "attack": 70
+    }
+  },
+  {
+    "id": 265,
+    "name": "Wurmple",
+    "captureRate": 255,
+    "types": [
+      {
+        "id": 7,
+        "name": "Bicho"
+      }
+    ],
+    "stats": {
+      "hp": 45,
+      "attack": 45
+    }
+  },
+  {
+    "id": 266,
+    "name": "Silcoon",
+    "captureRate": 120,
+    "types": [
+      {
+        "id": 7,
+        "name": "Bicho"
+      }
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 35
+    }
+  },
+  {
+    "id": 267,
+    "name": "Beautifly",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 3,
+        "name": "Volador"
+      },
+      {
+        "id": 7,
+        "name": "Bicho"
+      }
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 100
+    }
+  },
+  {
+    "id": 268,
+    "name": "Cascoon",
+    "captureRate": 120,
+    "types": [
+      {
+        "id": 7,
+        "name": "Bicho"
+      }
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 35
+    }
+  },
+  {
+    "id": 269,
+    "name": "Dustox",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 4,
+        "name": "Veneno"
+      },
+      {
+        "id": 7,
+        "name": "Bicho"
+      }
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 50
+    }
+  },
+  {
+    "id": 270,
+    "name": "Lotad",
+    "captureRate": 255,
+    "types": [
+      {
+        "id": 11,
+        "name": "Agua"
+      },
+      {
+        "id": 12,
+        "name": "Planta"
+      }
+    ],
+    "stats": {
+      "hp": 40,
+      "attack": 40
+    }
+  },
+  {
+    "id": 271,
+    "name": "Lombre",
+    "captureRate": 120,
+    "types": [
+      {
+        "id": 11,
+        "name": "Agua"
+      },
+      {
+        "id": 12,
+        "name": "Planta"
+      }
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 60
+    }
+  },
+  {
+    "id": 272,
+    "name": "Ludicolo",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 11,
+        "name": "Agua"
+      },
+      {
+        "id": 12,
+        "name": "Planta"
+      }
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": 90
+    }
+  },
+  {
+    "id": 273,
+    "name": "Seedot",
+    "captureRate": 255,
+    "types": [
+      {
+        "id": 12,
+        "name": "Planta"
+      }
+    ],
+    "stats": {
+      "hp": 40,
+      "attack": 40
+    }
+  },
+  {
+    "id": 274,
+    "name": "Nuzleaf",
+    "captureRate": 120,
+    "types": [
+      {
+        "id": 12,
+        "name": "Planta"
+      },
+      {
+        "id": 17,
+        "name": "Siniestro"
+      }
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 70
+    }
+  },
+  {
+    "id": 275,
+    "name": "Shiftry",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 12,
+        "name": "Planta"
+      },
+      {
+        "id": 17,
+        "name": "Siniestro"
+      }
+    ],
+    "stats": {
+      "hp": 90,
+      "attack": 100
+    }
+  },
+  {
+    "id": 276,
+    "name": "Taillow",
+    "captureRate": 200,
+    "types": [
+      {
+        "id": 1,
+        "name": "Normal"
+      },
+      {
+        "id": 3,
+        "name": "Volador"
+      }
+    ],
+    "stats": {
+      "hp": 40,
+      "attack": 55
+    }
+  },
+  {
+    "id": 277,
+    "name": "Swellow",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 1,
+        "name": "Normal"
+      },
+      {
+        "id": 3,
+        "name": "Volador"
+      }
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 85
+    }
+  },
+  {
+    "id": 278,
+    "name": "Wingull",
+    "captureRate": 190,
+    "types": [
+      {
+        "id": 11,
+        "name": "Agua"
+      },
+      {
+        "id": 3,
+        "name": "Volador"
+      }
+    ],
+    "stats": {
+      "hp": 40,
+      "attack": 55
+    }
+  },
+  {
+    "id": 279,
+    "name": "Pelipper",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 11,
+        "name": "Agua"
+      },
+      {
+        "id": 3,
+        "name": "Volador"
+      }
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 95
+    }
+  },
+  {
+    "id": 280,
+    "name": "Ralts",
+    "captureRate": 235,
+    "types": [
+      {
+        "id": 14,
+        "name": "Psíquico"
+      },
+      {
+        "id": 18,
+        "name": "Hada"
+      }
+    ],
+    "stats": {
+      "hp": 28,
+      "attack": 45
+    }
+  },
+  {
+    "id": 281,
+    "name": "Kirlia",
+    "captureRate": 120,
+    "types": [
+      {
+        "id": 14,
+        "name": "Psíquico"
+      },
+      {
+        "id": 18,
+        "name": "Hada"
+      }
+    ],
+    "stats": {
+      "hp": 38,
+      "attack": 65
+    }
+  },
+  {
+    "id": 282,
+    "name": "Gardevoir",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 14,
+        "name": "Psíquico"
+      },
+      {
+        "id": 18,
+        "name": "Hada"
+      }
+    ],
+    "stats": {
+      "hp": 68,
+      "attack": 125
+    }
+  },
+  {
+    "id": 283,
+    "name": "Surskit",
+    "captureRate": 200,
+    "types": [
+      {
+        "id": 7,
+        "name": "Bicho"
+      },
+      {
+        "id": 11,
+        "name": "Agua"
+      }
+    ],
+    "stats": {
+      "hp": 40,
+      "attack": 50
+    }
+  },
+  {
+    "id": 284,
+    "name": "Masquerain",
+    "captureRate": 75,
+    "types": [
+      {
+        "id": 7,
+        "name": "Bicho"
+      },
+      {
+        "id": 3,
+        "name": "Volador"
+      }
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 100
+    }
+  },
+  {
+    "id": 285,
+    "name": "Shroomish",
+    "captureRate": 255,
+    "types": [
+      {
+        "id": 12,
+        "name": "Planta"
+      }
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 40
+    }
+  },
+  {
+    "id": 286,
+    "name": "Breloom",
+    "captureRate": 90,
+    "types": [
+      {
+        "id": 2,
+        "name": "Lucha"
+      },
+      {
+        "id": 12,
+        "name": "Planta"
+      }
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 130
+    }
+  },
+  {
+    "id": 287,
+    "name": "Slakoth",
+    "captureRate": 255,
+    "types": [
+      {
+        "id": 1,
+        "name": "Normal"
+      }
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 60
+    }
+  },
+  {
+    "id": 288,
+    "name": "Vigoroth",
+    "captureRate": 120,
+    "types": [
+      {
+        "id": 1,
+        "name": "Normal"
+      }
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": 80
+    }
+  },
+  {
+    "id": 289,
+    "name": "Slaking",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 1,
+        "name": "Normal"
+      }
+    ],
+    "stats": {
+      "hp": 150,
+      "attack": 160
+    }
+  },
+  {
+    "id": 290,
+    "name": "Nincada",
+    "captureRate": 255,
+    "types": [
+      {
+        "id": 5,
+        "name": "Tierra"
+      },
+      {
+        "id": 7,
+        "name": "Bicho"
+      }
+    ],
+    "stats": {
+      "hp": 31,
+      "attack": 45
+    }
+  },
+  {
+    "id": 291,
+    "name": "Ninjask",
+    "captureRate": 120,
+    "types": [
+      {
+        "id": 7,
+        "name": "Bicho"
+      },
+      {
+        "id": 3,
+        "name": "Volador"
+      }
+    ],
+    "stats": {
+      "hp": 61,
+      "attack": 90
+    }
+  },
+  {
+    "id": 292,
+    "name": "Shedinja",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 8,
+        "name": "Fantasma"
+      },
+      {
+        "id": 7,
+        "name": "Bicho"
+      }
+    ],
+    "stats": {
+      "hp": 1,
+      "attack": 90
+    }
+  },
+  {
+    "id": 293,
+    "name": "Whismur",
+    "captureRate": 190,
+    "types": [
+      {
+        "id": 1,
+        "name": "Normal"
+      }
+    ],
+    "stats": {
+      "hp": 64,
+      "attack": 51
+    }
+  },
+  {
+    "id": 294,
+    "name": "Loudred",
+    "captureRate": 120,
+    "types": [
+      {
+        "id": 1,
+        "name": "Normal"
+      }
+    ],
+    "stats": {
+      "hp": 84,
+      "attack": 71
+    }
+  },
+  {
+    "id": 295,
+    "name": "Exploud",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 1,
+        "name": "Normal"
+      }
+    ],
+    "stats": {
+      "hp": 104,
+      "attack": 91
+    }
+  },
+  {
+    "id": 296,
+    "name": "Makuhita",
+    "captureRate": 180,
+    "types": [
+      {
+        "id": 2,
+        "name": "Lucha"
+      }
+    ],
+    "stats": {
+      "hp": 72,
+      "attack": 60
+    }
+  },
+  {
+    "id": 297,
+    "name": "Hariyama",
+    "captureRate": 200,
+    "types": [
+      {
+        "id": 2,
+        "name": "Lucha"
+      }
+    ],
+    "stats": {
+      "hp": 144,
+      "attack": 120
+    }
+  },
+  {
+    "id": 298,
+    "name": "Azurill",
+    "captureRate": 150,
+    "types": [
+      {
+        "id": 18,
+        "name": "Hada"
+      },
+      {
+        "id": 1,
+        "name": "Normal"
+      }
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 20
+    }
+  },
+  {
+    "id": 299,
+    "name": "Nosepass",
+    "captureRate": 255,
+    "types": [
+      {
+        "id": 6,
+        "name": "Roca"
+      }
+    ],
+    "stats": {
+      "hp": 30,
+      "attack": 45
+    }
+  },
+  {
+    "id": 300,
+    "name": "Skitty",
+    "captureRate": 255,
+    "types": [
+      {
+        "id": 1,
+        "name": "Normal"
+      }
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 45
+    }
+  },
+  {
+    "id": 301,
+    "name": "Delcatty",
+    "captureRate": 60,
+    "types": [
+      {
+        "id": 1,
+        "name": "Normal"
+      }
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 65
+    }
+  },
+  {
+    "id": 302,
+    "name": "Sableye",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 17,
+        "name": "Siniestro"
+      },
+      {
+        "id": 8,
+        "name": "Fantasma"
+      }
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 75
+    }
+  },
+  {
+    "id": 303,
+    "name": "Mawile",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 18,
+        "name": "Hada"
+      },
+      {
+        "id": 9,
+        "name": "Acero"
+      }
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 85
+    }
+  },
+  {
+    "id": 304,
+    "name": "Aron",
+    "captureRate": 180,
+    "types": [
+      {
+        "id": 6,
+        "name": "Roca"
+      },
+      {
+        "id": 9,
+        "name": "Acero"
+      }
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 70
+    }
+  },
+  {
+    "id": 305,
+    "name": "Lairon",
+    "captureRate": 90,
+    "types": [
+      {
+        "id": 6,
+        "name": "Roca"
+      },
+      {
+        "id": 9,
+        "name": "Acero"
+      }
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 90
+    }
+  },
+  {
+    "id": 306,
+    "name": "Aggron",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 6,
+        "name": "Roca"
+      },
+      {
+        "id": 9,
+        "name": "Acero"
+      }
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 110
+    }
+  },
+  {
+    "id": 307,
+    "name": "Meditite",
+    "captureRate": 180,
+    "types": [
+      {
+        "id": 14,
+        "name": "Psíquico"
+      },
+      {
+        "id": 2,
+        "name": "Lucha"
+      }
+    ],
+    "stats": {
+      "hp": 30,
+      "attack": 40
+    }
+  },
+  {
+    "id": 308,
+    "name": "Medicham",
+    "captureRate": 90,
+    "types": [
+      {
+        "id": 14,
+        "name": "Psíquico"
+      },
+      {
+        "id": 2,
+        "name": "Lucha"
+      }
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 60
+    }
+  },
+  {
+    "id": 309,
+    "name": "Electrike",
+    "captureRate": 120,
+    "types": [
+      {
+        "id": 13,
+        "name": "Eléctrico"
+      }
+    ],
+    "stats": {
+      "hp": 40,
+      "attack": 65
+    }
+  },
+  {
+    "id": 310,
+    "name": "Manectric",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 13,
+        "name": "Eléctrico"
+      }
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 105
+    }
+  },
+  {
+    "id": 311,
+    "name": "Plusle",
+    "captureRate": 200,
+    "types": [
+      {
+        "id": 13,
+        "name": "Eléctrico"
+      }
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 85
+    }
+  },
+  {
+    "id": 312,
+    "name": "Minun",
+    "captureRate": 200,
+    "types": [
+      {
+        "id": 13,
+        "name": "Eléctrico"
+      }
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 75
+    }
+  },
+  {
+    "id": 313,
+    "name": "Volbeat",
+    "captureRate": 150,
+    "types": [
+      {
+        "id": 7,
+        "name": "Bicho"
+      }
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 73
+    }
+  },
+  {
+    "id": 314,
+    "name": "Illumise",
+    "captureRate": 150,
+    "types": [
+      {
+        "id": 7,
+        "name": "Bicho"
+      }
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 73
+    }
+  },
+  {
+    "id": 315,
+    "name": "Roselia",
+    "captureRate": 150,
+    "types": [
+      {
+        "id": 12,
+        "name": "Planta"
+      },
+      {
+        "id": 4,
+        "name": "Veneno"
+      }
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 100
+    }
+  },
+  {
+    "id": 316,
+    "name": "Gulpin",
+    "captureRate": 225,
+    "types": [
+      {
+        "id": 4,
+        "name": "Veneno"
+      }
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 43
+    }
+  },
+  {
+    "id": 317,
+    "name": "Swalot",
+    "captureRate": 75,
+    "types": [
+      {
+        "id": 4,
+        "name": "Veneno"
+      }
+    ],
+    "stats": {
+      "hp": 100,
+      "attack": 73
+    }
+  },
+  {
+    "id": 318,
+    "name": "Carvanha",
+    "captureRate": 225,
+    "types": [
+      {
+        "id": 17,
+        "name": "Siniestro"
+      },
+      {
+        "id": 11,
+        "name": "Agua"
+      }
+    ],
+    "stats": {
+      "hp": 45,
+      "attack": 90
+    }
+  },
+  {
+    "id": 319,
+    "name": "Sharpedo",
+    "captureRate": 60,
+    "types": [
+      {
+        "id": 17,
+        "name": "Siniestro"
+      },
+      {
+        "id": 11,
+        "name": "Agua"
+      }
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 120
+    }
+  },
+  {
+    "id": 320,
+    "name": "Wailmer",
+    "captureRate": 125,
+    "types": [
+      {
+        "id": 11,
+        "name": "Agua"
+      }
+    ],
+    "stats": {
+      "hp": 130,
+      "attack": 70
+    }
+  },
+  {
+    "id": 321,
+    "name": "Wailord",
+    "captureRate": 60,
+    "types": [
+      {
+        "id": 11,
+        "name": "Agua"
+      }
+    ],
+    "stats": {
+      "hp": 170,
+      "attack": 90
+    }
+  },
+  {
+    "id": 322,
+    "name": "Numel",
+    "captureRate": 255,
+    "types": [
+      {
+        "id": 10,
+        "name": "Fuego"
+      },
+      {
+        "id": 5,
+        "name": "Tierra"
+      }
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 65
+    }
+  },
+  {
+    "id": 323,
+    "name": "Camerupt",
+    "captureRate": 150,
+    "types": [
+      {
+        "id": 10,
+        "name": "Fuego"
+      },
+      {
+        "id": 5,
+        "name": "Tierra"
+      }
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 105
+    }
+  },
+  {
+    "id": 324,
+    "name": "Torkoal",
+    "captureRate": 90,
+    "types": [
+      {
+        "id": 10,
+        "name": "Fuego"
+      }
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 85
+    }
+  },
+  {
+    "id": 325,
+    "name": "Spoink",
+    "captureRate": 255,
+    "types": [
+      {
+        "id": 14,
+        "name": "Psíquico"
+      }
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 70
+    }
+  },
+  {
+    "id": 326,
+    "name": "Grumpig",
+    "captureRate": 60,
+    "types": [
+      {
+        "id": 14,
+        "name": "Psíquico"
+      }
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": 90
+    }
+  },
+  {
+    "id": 327,
+    "name": "Spinda",
+    "captureRate": 255,
+    "types": [
+      {
+        "id": 1,
+        "name": "Normal"
+      }
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 60
+    }
+  },
+  {
+    "id": 328,
+    "name": "Trapinch",
+    "captureRate": 255,
+    "types": [
+      {
+        "id": 5,
+        "name": "Tierra"
+      }
+    ],
+    "stats": {
+      "hp": 45,
+      "attack": 100
+    }
+  },
+  {
+    "id": 329,
+    "name": "Vibrava",
+    "captureRate": 120,
+    "types": [
+      {
+        "id": 5,
+        "name": "Tierra"
+      },
+      {
+        "id": 16,
+        "name": "Dragón"
+      }
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 70
+    }
+  },
+  {
+    "id": 330,
+    "name": "Flygon",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 5,
+        "name": "Tierra"
+      },
+      {
+        "id": 16,
+        "name": "Dragón"
+      }
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": 100
+    }
+  },
+  {
+    "id": 331,
+    "name": "Cacnea",
+    "captureRate": 190,
+    "types": [
+      {
+        "id": 12,
+        "name": "Planta"
+      }
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 85
+    }
+  },
+  {
+    "id": 332,
+    "name": "Cacturne",
+    "captureRate": 60,
+    "types": [
+      {
+        "id": 12,
+        "name": "Planta"
+      },
+      {
+        "id": 17,
+        "name": "Siniestro"
+      }
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 115
+    }
+  },
+  {
+    "id": 333,
+    "name": "Swablu",
+    "captureRate": 255,
+    "types": [
+      {
+        "id": 1,
+        "name": "Normal"
+      },
+      {
+        "id": 3,
+        "name": "Volador"
+      }
+    ],
+    "stats": {
+      "hp": 45,
+      "attack": 40
+    }
+  },
+  {
+    "id": 334,
+    "name": "Altaria",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 16,
+        "name": "Dragón"
+      },
+      {
+        "id": 3,
+        "name": "Volador"
+      }
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": 70
+    }
+  },
+  {
+    "id": 335,
+    "name": "Zangoose",
+    "captureRate": 90,
+    "types": [
+      {
+        "id": 1,
+        "name": "Normal"
+      }
+    ],
+    "stats": {
+      "hp": 73,
+      "attack": 115
+    }
+  },
+  {
+    "id": 336,
+    "name": "Seviper",
+    "captureRate": 90,
+    "types": [
+      {
+        "id": 4,
+        "name": "Veneno"
+      }
+    ],
+    "stats": {
+      "hp": 73,
+      "attack": 100
+    }
+  },
+  {
+    "id": 337,
+    "name": "Lunatone",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 6,
+        "name": "Roca"
+      },
+      {
+        "id": 14,
+        "name": "Psíquico"
+      }
+    ],
+    "stats": {
+      "hp": 90,
+      "attack": 95
+    }
+  },
+  {
+    "id": 338,
+    "name": "Solrock",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 6,
+        "name": "Roca"
+      },
+      {
+        "id": 14,
+        "name": "Psíquico"
+      }
+    ],
+    "stats": {
+      "hp": 90,
+      "attack": 95
+    }
+  },
+  {
+    "id": 339,
+    "name": "Barboach",
+    "captureRate": 190,
+    "types": [
+      {
+        "id": 11,
+        "name": "Agua"
+      },
+      {
+        "id": 5,
+        "name": "Tierra"
+      }
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 48
+    }
+  },
+  {
+    "id": 340,
+    "name": "Whiscash",
+    "captureRate": 75,
+    "types": [
+      {
+        "id": 11,
+        "name": "Agua"
+      },
+      {
+        "id": 5,
+        "name": "Tierra"
+      }
+    ],
+    "stats": {
+      "hp": 110,
+      "attack": 78
+    }
+  },
+  {
+    "id": 341,
+    "name": "Corphish",
+    "captureRate": 205,
+    "types": [
+      {
+        "id": 11,
+        "name": "Agua"
+      }
+    ],
+    "stats": {
+      "hp": 43,
+      "attack": 80
+    }
+  },
+  {
+    "id": 342,
+    "name": "Crawdaunt",
+    "captureRate": 155,
+    "types": [
+      {
+        "id": 11,
+        "name": "Agua"
+      },
+      {
+        "id": 17,
+        "name": "Siniestro"
+      }
+    ],
+    "stats": {
+      "hp": 63,
+      "attack": 120
+    }
+  },
+  {
+    "id": 343,
+    "name": "Baltoy",
+    "captureRate": 255,
+    "types": [
+      {
+        "id": 5,
+        "name": "Tierra"
+      },
+      {
+        "id": 14,
+        "name": "Psíquico"
+      }
+    ],
+    "stats": {
+      "hp": 40,
+      "attack": 40
+    }
+  },
+  {
+    "id": 344,
+    "name": "Claydol",
+    "captureRate": 90,
+    "types": [
+      {
+        "id": 5,
+        "name": "Tierra"
+      },
+      {
+        "id": 14,
+        "name": "Psíquico"
+      }
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 70
+    }
+  },
+  {
+    "id": 345,
+    "name": "Lileep",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 6,
+        "name": "Roca"
+      },
+      {
+        "id": 12,
+        "name": "Planta"
+      }
+    ],
+    "stats": {
+      "hp": 66,
+      "attack": 61
+    }
+  },
+  {
+    "id": 346,
+    "name": "Cradily",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 6,
+        "name": "Roca"
+      },
+      {
+        "id": 12,
+        "name": "Planta"
+      }
+    ],
+    "stats": {
+      "hp": 86,
+      "attack": 81
+    }
+  },
+  {
+    "id": 347,
+    "name": "Anorith",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 6,
+        "name": "Roca"
+      },
+      {
+        "id": 7,
+        "name": "Bicho"
+      }
+    ],
+    "stats": {
+      "hp": 45,
+      "attack": 95
+    }
+  },
+  {
+    "id": 348,
+    "name": "Armaldo",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 6,
+        "name": "Roca"
+      },
+      {
+        "id": 7,
+        "name": "Bicho"
+      }
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": 125
+    }
+  },
+  {
+    "id": 349,
+    "name": "Feebas",
+    "captureRate": 255,
+    "types": [
+      {
+        "id": 11,
+        "name": "Agua"
+      }
+    ],
+    "stats": {
+      "hp": 20,
+      "attack": 15
+    }
+  },
+  {
+    "id": 350,
+    "name": "Milotic",
+    "captureRate": 60,
+    "types": [
+      {
+        "id": 11,
+        "name": "Agua"
+      }
+    ],
+    "stats": {
+      "hp": 95,
+      "attack": 100
+    }
+  },
+  {
+    "id": 351,
+    "name": "Castform",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 1,
+        "name": "Normal"
+      }
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 70
+    }
+  },
+  {
+    "id": 352,
+    "name": "Kecleon",
+    "captureRate": 200,
+    "types": [
+      {
+        "id": 1,
+        "name": "Normal"
+      }
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 90
+    }
+  },
+  {
+    "id": 353,
+    "name": "Shuppet",
+    "captureRate": 225,
+    "types": [
+      {
+        "id": 8,
+        "name": "Fantasma"
+      }
+    ],
+    "stats": {
+      "hp": 44,
+      "attack": 75
+    }
+  },
+  {
+    "id": 354,
+    "name": "Banette",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 8,
+        "name": "Fantasma"
+      }
+    ],
+    "stats": {
+      "hp": 64,
+      "attack": 115
+    }
+  },
+  {
+    "id": 355,
+    "name": "Duskull",
+    "captureRate": 190,
+    "types": [
+      {
+        "id": 8,
+        "name": "Fantasma"
+      }
+    ],
+    "stats": {
+      "hp": 20,
+      "attack": 40
+    }
+  },
+  {
+    "id": 356,
+    "name": "Dusclops",
+    "captureRate": 90,
+    "types": [
+      {
+        "id": 8,
+        "name": "Fantasma"
+      }
+    ],
+    "stats": {
+      "hp": 40,
+      "attack": 70
+    }
+  },
+  {
+    "id": 357,
+    "name": "Tropius",
+    "captureRate": 200,
+    "types": [
+      {
+        "id": 12,
+        "name": "Planta"
+      },
+      {
+        "id": 3,
+        "name": "Volador"
+      }
+    ],
+    "stats": {
+      "hp": 99,
+      "attack": 72
+    }
+  },
+  {
+    "id": 358,
+    "name": "Chimecho",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 14,
+        "name": "Psíquico"
+      }
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": 95
+    }
+  },
+  {
+    "id": 359,
+    "name": "Absol",
+    "captureRate": 30,
+    "types": [
+      {
+        "id": 17,
+        "name": "Siniestro"
+      }
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 130
+    }
+  },
+  {
+    "id": 360,
+    "name": "Wynaut",
+    "captureRate": 125,
+    "types": [
+      {
+        "id": 14,
+        "name": "Psíquico"
+      }
+    ],
+    "stats": {
+      "hp": 95,
+      "attack": 23
+    }
+  },
+  {
+    "id": 361,
+    "name": "Snorunt",
+    "captureRate": 190,
+    "types": [
+      {
+        "id": 15,
+        "name": "Hielo"
+      }
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 50
+    }
+  },
+  {
+    "id": 362,
+    "name": "Glalie",
+    "captureRate": 75,
+    "types": [
+      {
+        "id": 15,
+        "name": "Hielo"
+      }
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": 80
+    }
+  },
+  {
+    "id": 363,
+    "name": "Spheal",
+    "captureRate": 255,
+    "types": [
+      {
+        "id": 11,
+        "name": "Agua"
+      },
+      {
+        "id": 15,
+        "name": "Hielo"
+      }
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 55
+    }
+  },
+  {
+    "id": 364,
+    "name": "Sealeo",
+    "captureRate": 120,
+    "types": [
+      {
+        "id": 11,
+        "name": "Agua"
+      },
+      {
+        "id": 15,
+        "name": "Hielo"
+      }
+    ],
+    "stats": {
+      "hp": 90,
+      "attack": 75
+    }
+  },
+  {
+    "id": 365,
+    "name": "Walrein",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 15,
+        "name": "Hielo"
+      },
+      {
+        "id": 11,
+        "name": "Agua"
+      }
+    ],
+    "stats": {
+      "hp": 110,
+      "attack": 95
+    }
+  },
+  {
+    "id": 366,
+    "name": "Clamperl",
+    "captureRate": 255,
+    "types": [
+      {
+        "id": 11,
+        "name": "Agua"
+      }
+    ],
+    "stats": {
+      "hp": 35,
+      "attack": 74
+    }
+  },
+  {
+    "id": 367,
+    "name": "Huntail",
+    "captureRate": 60,
+    "types": [
+      {
+        "id": 11,
+        "name": "Agua"
+      }
+    ],
+    "stats": {
+      "hp": 55,
+      "attack": 104
+    }
+  },
+  {
+    "id": 368,
+    "name": "Gorebyss",
+    "captureRate": 60,
+    "types": [
+      {
+        "id": 11,
+        "name": "Agua"
+      }
+    ],
+    "stats": {
+      "hp": 55,
+      "attack": 114
+    }
+  },
+  {
+    "id": 369,
+    "name": "Relicanth",
+    "captureRate": 25,
+    "types": [
+      {
+        "id": 11,
+        "name": "Agua"
+      },
+      {
+        "id": 6,
+        "name": "Roca"
+      }
+    ],
+    "stats": {
+      "hp": 100,
+      "attack": 90
+    }
+  },
+  {
+    "id": 370,
+    "name": "Luvdisc",
+    "captureRate": 225,
+    "types": [
+      {
+        "id": 11,
+        "name": "Agua"
+      }
+    ],
+    "stats": {
+      "hp": 43,
+      "attack": 40
+    }
+  },
+  {
+    "id": 371,
+    "name": "Bagon",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 16,
+        "name": "Dragón"
+      }
+    ],
+    "stats": {
+      "hp": 45,
+      "attack": 75
+    }
+  },
+  {
+    "id": 372,
+    "name": "Shelgon",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 16,
+        "name": "Dragón"
+      }
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 95
+    }
+  },
+  {
+    "id": 373,
+    "name": "Salamence",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 3,
+        "name": "Volador"
+      },
+      {
+        "id": 16,
+        "name": "Dragón"
+      }
+    ],
+    "stats": {
+      "hp": 95,
+      "attack": 135
+    }
+  },
+  {
+    "id": 374,
+    "name": "Beldum",
+    "captureRate": 3,
+    "types": [
+      {
+        "id": 9,
+        "name": "Acero"
+      },
+      {
+        "id": 14,
+        "name": "Psíquico"
+      }
+    ],
+    "stats": {
+      "hp": 40,
+      "attack": 55
+    }
+  },
+  {
+    "id": 375,
+    "name": "Metang",
+    "captureRate": 3,
+    "types": [
+      {
+        "id": 9,
+        "name": "Acero"
+      },
+      {
+        "id": 14,
+        "name": "Psíquico"
+      }
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 75
+    }
+  },
+  {
+    "id": 376,
+    "name": "Metagross",
+    "captureRate": 3,
+    "types": [
+      {
+        "id": 9,
+        "name": "Acero"
+      },
+      {
+        "id": 14,
+        "name": "Psíquico"
+      }
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": 135
+    }
+  },
+  {
+    "id": 377,
+    "name": "Regirock",
+    "captureRate": 3,
+    "types": [
+      {
+        "id": 6,
+        "name": "Roca"
+      }
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": 100
+    }
+  },
+  {
+    "id": 378,
+    "name": "Regice",
+    "captureRate": 3,
+    "types": [
+      {
+        "id": 15,
+        "name": "Hielo"
+      }
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": 100
+    }
+  },
+  {
+    "id": 379,
+    "name": "Registeel",
+    "captureRate": 3,
+    "types": [
+      {
+        "id": 9,
+        "name": "Acero"
+      }
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": 75
+    }
+  },
+  {
+    "id": 380,
+    "name": "Latias",
+    "captureRate": 3,
+    "types": [
+      {
+        "id": 16,
+        "name": "Dragón"
+      },
+      {
+        "id": 14,
+        "name": "Psíquico"
+      }
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": 110
+    }
+  },
+  {
+    "id": 381,
+    "name": "Latios",
+    "captureRate": 3,
+    "types": [
+      {
+        "id": 16,
+        "name": "Dragón"
+      },
+      {
+        "id": 14,
+        "name": "Psíquico"
+      }
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": 130
+    }
+  },
+  {
+    "id": 382,
+    "name": "Kyogre",
+    "captureRate": 3,
+    "types": [
+      {
+        "id": 11,
+        "name": "Agua"
+      }
+    ],
+    "stats": {
+      "hp": 100,
+      "attack": 150
+    }
+  },
+  {
+    "id": 383,
+    "name": "Groudon",
+    "captureRate": 3,
+    "types": [
+      {
+        "id": 5,
+        "name": "Tierra"
+      }
+    ],
+    "stats": {
+      "hp": 100,
+      "attack": 150
+    }
+  },
+  {
+    "id": 384,
+    "name": "Rayquaza",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 16,
+        "name": "Dragón"
+      },
+      {
+        "id": 3,
+        "name": "Volador"
+      }
+    ],
+    "stats": {
+      "hp": 105,
+      "attack": 150
+    }
+  },
+  {
+    "id": 385,
+    "name": "Jirachi",
+    "captureRate": 3,
+    "types": [
+      {
+        "id": 9,
+        "name": "Acero"
+      },
+      {
+        "id": 14,
+        "name": "Psíquico"
+      }
+    ],
+    "stats": {
+      "hp": 100,
+      "attack": 100
+    }
+  },
+  {
+    "id": 386,
+    "name": "Deoxys",
+    "captureRate": 3,
+    "types": [
+      {
+        "id": 14,
+        "name": "Psíquico"
+      }
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 150
+    }
+  },
+  {
+    "id": 387,
+    "name": "Turtwig",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 12,
+        "name": "Planta"
+      }
+    ],
+    "stats": {
+      "hp": 55,
+      "attack": 68
+    }
+  },
+  {
+    "id": 388,
+    "name": "Grotle",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 12,
+        "name": "Planta"
+      }
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": 89
+    }
+  },
+  {
+    "id": 389,
+    "name": "Torterra",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 12,
+        "name": "Planta"
+      },
+      {
+        "id": 5,
+        "name": "Tierra"
+      }
+    ],
+    "stats": {
+      "hp": 95,
+      "attack": 109
+    }
+  },
+  {
+    "id": 390,
+    "name": "Chimchar",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 10,
+        "name": "Fuego"
+      }
+    ],
+    "stats": {
+      "hp": 44,
+      "attack": 58
+    }
+  },
+  {
+    "id": 391,
+    "name": "Monferno",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 10,
+        "name": "Fuego"
+      },
+      {
+        "id": 2,
+        "name": "Lucha"
+      }
+    ],
+    "stats": {
+      "hp": 64,
+      "attack": 78
+    }
+  },
+  {
+    "id": 392,
+    "name": "Infernape",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 10,
+        "name": "Fuego"
+      },
+      {
+        "id": 2,
+        "name": "Lucha"
+      }
+    ],
+    "stats": {
+      "hp": 76,
+      "attack": 104
+    }
+  },
+  {
+    "id": 393,
+    "name": "Piplup",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 11,
+        "name": "Agua"
+      }
+    ],
+    "stats": {
+      "hp": 53,
+      "attack": 61
+    }
+  },
+  {
+    "id": 394,
+    "name": "Prinplup",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 11,
+        "name": "Agua"
+      }
+    ],
+    "stats": {
+      "hp": 64,
+      "attack": 81
+    }
+  },
+  {
+    "id": 395,
+    "name": "Empoleon",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 11,
+        "name": "Agua"
+      },
+      {
+        "id": 9,
+        "name": "Acero"
+      }
+    ],
+    "stats": {
+      "hp": 84,
+      "attack": 111
+    }
+  },
+  {
+    "id": 396,
+    "name": "Starly",
+    "captureRate": 255,
+    "types": [
+      {
+        "id": 1,
+        "name": "Normal"
+      },
+      {
+        "id": 3,
+        "name": "Volador"
+      }
+    ],
+    "stats": {
+      "hp": 40,
+      "attack": 55
+    }
+  },
+  {
+    "id": 397,
+    "name": "Staravia",
+    "captureRate": 120,
+    "types": [
+      {
+        "id": 1,
+        "name": "Normal"
+      },
+      {
+        "id": 3,
+        "name": "Volador"
+      }
+    ],
+    "stats": {
+      "hp": 55,
+      "attack": 75
+    }
+  },
+  {
+    "id": 398,
+    "name": "Staraptor",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 1,
+        "name": "Normal"
+      },
+      {
+        "id": 3,
+        "name": "Volador"
+      }
+    ],
+    "stats": {
+      "hp": 85,
+      "attack": 120
+    }
+  },
+  {
+    "id": 399,
+    "name": "Bidoof",
+    "captureRate": 255,
+    "types": [
+      {
+        "id": 1,
+        "name": "Normal"
+      }
+    ],
+    "stats": {
+      "hp": 59,
+      "attack": 45
+    }
+  },
+  {
+    "id": 400,
+    "name": "Bibarel",
+    "captureRate": 127,
+    "types": [
+      {
+        "id": 1,
+        "name": "Normal"
+      },
+      {
+        "id": 11,
+        "name": "Agua"
+      }
+    ],
+    "stats": {
+      "hp": 79,
+      "attack": 85
+    }
+  },
+  {
+    "id": 401,
+    "name": "Kricketot",
+    "captureRate": 255,
+    "types": [
+      {
+        "id": 7,
+        "name": "Bicho"
+      }
+    ],
+    "stats": {
+      "hp": 37,
+      "attack": 25
+    }
+  },
+  {
+    "id": 402,
+    "name": "Kricketune",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 7,
+        "name": "Bicho"
+      }
+    ],
+    "stats": {
+      "hp": 77,
+      "attack": 85
+    }
+  },
+  {
+    "id": 403,
+    "name": "Shinx",
+    "captureRate": 235,
+    "types": [
+      {
+        "id": 13,
+        "name": "Eléctrico"
+      }
+    ],
+    "stats": {
+      "hp": 45,
+      "attack": 65
+    }
+  },
+  {
+    "id": 404,
+    "name": "Luxio",
+    "captureRate": 120,
+    "types": [
+      {
+        "id": 13,
+        "name": "Eléctrico"
+      }
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 85
+    }
+  },
+  {
+    "id": 405,
+    "name": "Luxray",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 13,
+        "name": "Eléctrico"
+      }
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": 120
+    }
+  },
+  {
+    "id": 406,
+    "name": "Budew",
+    "captureRate": 255,
+    "types": [
+      {
+        "id": 12,
+        "name": "Planta"
+      },
+      {
+        "id": 4,
+        "name": "Veneno"
+      }
+    ],
+    "stats": {
+      "hp": 40,
+      "attack": 50
+    }
+  },
+  {
+    "id": 407,
+    "name": "Roserade",
+    "captureRate": 75,
+    "types": [
+      {
+        "id": 12,
+        "name": "Planta"
+      },
+      {
+        "id": 4,
+        "name": "Veneno"
+      }
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 125
+    }
+  },
+  {
+    "id": 408,
+    "name": "Cranidos",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 6,
+        "name": "Roca"
+      }
+    ],
+    "stats": {
+      "hp": 67,
+      "attack": 125
+    }
+  },
+  {
+    "id": 409,
+    "name": "Rampardos",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 6,
+        "name": "Roca"
+      }
+    ],
+    "stats": {
+      "hp": 97,
+      "attack": 165
+    }
+  },
+  {
+    "id": 410,
+    "name": "Shieldon",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 6,
+        "name": "Roca"
+      },
+      {
+        "id": 9,
+        "name": "Acero"
+      }
+    ],
+    "stats": {
+      "hp": 30,
+      "attack": 42
+    }
+  },
+  {
+    "id": 411,
+    "name": "Bastiodon",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 6,
+        "name": "Roca"
+      },
+      {
+        "id": 9,
+        "name": "Acero"
+      }
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 52
+    }
+  },
+  {
+    "id": 412,
+    "name": "Burmy",
+    "captureRate": 120,
+    "types": [
+      {
+        "id": 7,
+        "name": "Bicho"
+      }
+    ],
+    "stats": {
+      "hp": 40,
+      "attack": 29
+    }
+  },
+  {
+    "id": 413,
+    "name": "Wormadam",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 7,
+        "name": "Bicho"
+      },
+      {
+        "id": 12,
+        "name": "Planta"
+      }
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 79
+    }
+  },
+  {
+    "id": 414,
+    "name": "Mothim",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 7,
+        "name": "Bicho"
+      },
+      {
+        "id": 3,
+        "name": "Volador"
+      }
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 94
+    }
+  },
+  {
+    "id": 415,
+    "name": "Combee",
+    "captureRate": 120,
+    "types": [
+      {
+        "id": 7,
+        "name": "Bicho"
+      },
+      {
+        "id": 3,
+        "name": "Volador"
+      }
+    ],
+    "stats": {
+      "hp": 30,
+      "attack": 30
+    }
+  },
+  {
+    "id": 416,
+    "name": "Vespiquen",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 7,
+        "name": "Bicho"
+      },
+      {
+        "id": 3,
+        "name": "Volador"
+      }
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 80
+    }
+  },
+  {
+    "id": 417,
+    "name": "Pachirisu",
+    "captureRate": 200,
+    "types": [
+      {
+        "id": 13,
+        "name": "Eléctrico"
+      }
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 45
+    }
+  },
+  {
+    "id": 418,
+    "name": "Buizel",
+    "captureRate": 190,
+    "types": [
+      {
+        "id": 11,
+        "name": "Agua"
+      }
+    ],
+    "stats": {
+      "hp": 55,
+      "attack": 65
+    }
+  },
+  {
+    "id": 419,
+    "name": "Floatzel",
+    "captureRate": 75,
+    "types": [
+      {
+        "id": 11,
+        "name": "Agua"
+      }
+    ],
+    "stats": {
+      "hp": 85,
+      "attack": 105
+    }
+  },
+  {
+    "id": 420,
+    "name": "Cherubi",
+    "captureRate": 190,
+    "types": [
+      {
+        "id": 12,
+        "name": "Planta"
+      }
+    ],
+    "stats": {
+      "hp": 45,
+      "attack": 62
+    }
+  },
+  {
+    "id": 421,
+    "name": "Cherrim",
+    "captureRate": 75,
+    "types": [
+      {
+        "id": 12,
+        "name": "Planta"
+      }
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 87
+    }
+  },
+  {
+    "id": 422,
+    "name": "Shellos",
+    "captureRate": 190,
+    "types": [
+      {
+        "id": 11,
+        "name": "Agua"
+      }
+    ],
+    "stats": {
+      "hp": 76,
+      "attack": 57
+    }
+  },
+  {
+    "id": 423,
+    "name": "Gastrodon",
+    "captureRate": 75,
+    "types": [
+      {
+        "id": 11,
+        "name": "Agua"
+      },
+      {
+        "id": 5,
+        "name": "Tierra"
+      }
+    ],
+    "stats": {
+      "hp": 111,
+      "attack": 92
+    }
+  },
+  {
+    "id": 424,
+    "name": "Ambipom",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 1,
+        "name": "Normal"
+      }
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": 100
+    }
+  },
+  {
+    "id": 425,
+    "name": "Drifloon",
+    "captureRate": 125,
+    "types": [
+      {
+        "id": 3,
+        "name": "Volador"
+      },
+      {
+        "id": 8,
+        "name": "Fantasma"
+      }
+    ],
+    "stats": {
+      "hp": 90,
+      "attack": 60
+    }
+  },
+  {
+    "id": 426,
+    "name": "Drifblim",
+    "captureRate": 60,
+    "types": [
+      {
+        "id": 3,
+        "name": "Volador"
+      },
+      {
+        "id": 8,
+        "name": "Fantasma"
+      }
+    ],
+    "stats": {
+      "hp": 150,
+      "attack": 90
+    }
+  },
+  {
+    "id": 427,
+    "name": "Buneary",
+    "captureRate": 190,
+    "types": [
+      {
+        "id": 1,
+        "name": "Normal"
+      }
+    ],
+    "stats": {
+      "hp": 55,
+      "attack": 66
+    }
+  },
+  {
+    "id": 428,
+    "name": "Lopunny",
+    "captureRate": 60,
+    "types": [
+      {
+        "id": 1,
+        "name": "Normal"
+      }
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 76
+    }
+  },
+  {
+    "id": 429,
+    "name": "Mismagius",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 8,
+        "name": "Fantasma"
+      }
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 105
+    }
+  },
+  {
+    "id": 430,
+    "name": "Honchkrow",
+    "captureRate": 30,
+    "types": [
+      {
+        "id": 3,
+        "name": "Volador"
+      },
+      {
+        "id": 17,
+        "name": "Siniestro"
+      }
+    ],
+    "stats": {
+      "hp": 100,
+      "attack": 125
+    }
+  },
+  {
+    "id": 431,
+    "name": "Glameow",
+    "captureRate": 190,
+    "types": [
+      {
+        "id": 1,
+        "name": "Normal"
+      }
+    ],
+    "stats": {
+      "hp": 49,
+      "attack": 55
+    }
+  },
+  {
+    "id": 432,
+    "name": "Shnurgarst",
+    "captureRate": 75,
+    "types": [
+      {
+        "id": 1,
+        "name": "Normal"
+      }
+    ],
+    "stats": {
+      "hp": 71,
+      "attack": 82
+    }
+  },
+  {
+    "id": 433,
+    "name": "Chingling",
+    "captureRate": 120,
+    "types": [
+      {
+        "id": 14,
+        "name": "Psíquico"
+      }
+    ],
+    "stats": {
+      "hp": 45,
+      "attack": 65
+    }
+  },
+  {
+    "id": 434,
+    "name": "Stunky",
+    "captureRate": 225,
+    "types": [
+      {
+        "id": 17,
+        "name": "Siniestro"
+      },
+      {
+        "id": 4,
+        "name": "Veneno"
+      }
+    ],
+    "stats": {
+      "hp": 63,
+      "attack": 63
+    }
+  },
+  {
+    "id": 435,
+    "name": "Skuntank",
+    "captureRate": 60,
+    "types": [
+      {
+        "id": 17,
+        "name": "Siniestro"
+      },
+      {
+        "id": 4,
+        "name": "Veneno"
+      }
+    ],
+    "stats": {
+      "hp": 103,
+      "attack": 93
+    }
+  },
+  {
+    "id": 436,
+    "name": "Bronzor",
+    "captureRate": 255,
+    "types": [
+      {
+        "id": 14,
+        "name": "Psíquico"
+      },
+      {
+        "id": 9,
+        "name": "Acero"
+      }
+    ],
+    "stats": {
+      "hp": 57,
+      "attack": 24
+    }
+  },
+  {
+    "id": 437,
+    "name": "Bronzong",
+    "captureRate": 90,
+    "types": [
+      {
+        "id": 14,
+        "name": "Psíquico"
+      },
+      {
+        "id": 9,
+        "name": "Acero"
+      }
+    ],
+    "stats": {
+      "hp": 67,
+      "attack": 89
+    }
+  },
+  {
+    "id": 438,
+    "name": "Bonsly",
+    "captureRate": 255,
+    "types": [
+      {
+        "id": 6,
+        "name": "Roca"
+      }
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 80
+    }
+  },
+  {
+    "id": 439,
+    "name": "Mime Jr.",
+    "captureRate": 145,
+    "types": [
+      {
+        "id": 18,
+        "name": "Hada"
+      },
+      {
+        "id": 14,
+        "name": "Psíquico"
+      }
+    ],
+    "stats": {
+      "hp": 20,
+      "attack": 70
+    }
+  },
+  {
+    "id": 440,
+    "name": "Happiny",
+    "captureRate": 130,
+    "types": [
+      {
+        "id": 1,
+        "name": "Normal"
+      }
+    ],
+    "stats": {
+      "hp": 100,
+      "attack": 15
+    }
+  },
+  {
+    "id": 441,
+    "name": "Chatot",
+    "captureRate": 30,
+    "types": [
+      {
+        "id": 1,
+        "name": "Normal"
+      },
+      {
+        "id": 3,
+        "name": "Volador"
+      }
+    ],
+    "stats": {
+      "hp": 76,
+      "attack": 92
+    }
+  },
+  {
+    "id": 442,
+    "name": "Spiritomb",
+    "captureRate": 100,
+    "types": [
+      {
+        "id": 8,
+        "name": "Fantasma"
+      },
+      {
+        "id": 17,
+        "name": "Siniestro"
+      }
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 92
+    }
+  },
+  {
+    "id": 443,
+    "name": "Gible",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 5,
+        "name": "Tierra"
+      },
+      {
+        "id": 16,
+        "name": "Dragón"
+      }
+    ],
+    "stats": {
+      "hp": 58,
+      "attack": 70
+    }
+  },
+  {
+    "id": 444,
+    "name": "Gabite",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 5,
+        "name": "Tierra"
+      },
+      {
+        "id": 16,
+        "name": "Dragón"
+      }
+    ],
+    "stats": {
+      "hp": 68,
+      "attack": 90
+    }
+  },
+  {
+    "id": 445,
+    "name": "Garchomp",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 5,
+        "name": "Tierra"
+      },
+      {
+        "id": 16,
+        "name": "Dragón"
+      }
+    ],
+    "stats": {
+      "hp": 108,
+      "attack": 130
+    }
+  },
+  {
+    "id": 446,
+    "name": "Munchlax",
+    "captureRate": 50,
+    "types": [
+      {
+        "id": 1,
+        "name": "Normal"
+      }
+    ],
+    "stats": {
+      "hp": 135,
+      "attack": 85
+    }
+  },
+  {
+    "id": 447,
+    "name": "Riolu",
+    "captureRate": 75,
+    "types": [
+      {
+        "id": 2,
+        "name": "Lucha"
+      }
+    ],
+    "stats": {
+      "hp": 40,
+      "attack": 70
+    }
+  },
+  {
+    "id": 448,
+    "name": "Lucario",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 9,
+        "name": "Acero"
+      },
+      {
+        "id": 2,
+        "name": "Lucha"
+      }
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 115
+    }
+  },
+  {
+    "id": 449,
+    "name": "Hippopotas",
+    "captureRate": 140,
+    "types": [
+      {
+        "id": 5,
+        "name": "Tierra"
+      }
+    ],
+    "stats": {
+      "hp": 68,
+      "attack": 72
+    }
+  },
+  {
+    "id": 450,
+    "name": "Hippowdon",
+    "captureRate": 60,
+    "types": [
+      {
+        "id": 5,
+        "name": "Tierra"
+      }
+    ],
+    "stats": {
+      "hp": 108,
+      "attack": 112
+    }
+  },
+  {
+    "id": 451,
+    "name": "Skorupi",
+    "captureRate": 120,
+    "types": [
+      {
+        "id": 4,
+        "name": "Veneno"
+      },
+      {
+        "id": 7,
+        "name": "Bicho"
+      }
+    ],
+    "stats": {
+      "hp": 40,
+      "attack": 50
+    }
+  },
+  {
+    "id": 452,
+    "name": "Drapion",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 17,
+        "name": "Siniestro"
+      },
+      {
+        "id": 4,
+        "name": "Veneno"
+      }
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 90
+    }
+  },
+  {
+    "id": 453,
+    "name": "Croagunk",
+    "captureRate": 140,
+    "types": [
+      {
+        "id": 4,
+        "name": "Veneno"
+      },
+      {
+        "id": 2,
+        "name": "Lucha"
+      }
+    ],
+    "stats": {
+      "hp": 48,
+      "attack": 61
+    }
+  },
+  {
+    "id": 454,
+    "name": "Toxicroak",
+    "captureRate": 75,
+    "types": [
+      {
+        "id": 4,
+        "name": "Veneno"
+      },
+      {
+        "id": 2,
+        "name": "Lucha"
+      }
+    ],
+    "stats": {
+      "hp": 83,
+      "attack": 106
+    }
+  },
+  {
+    "id": 455,
+    "name": "Carnivine",
+    "captureRate": 200,
+    "types": [
+      {
+        "id": 12,
+        "name": "Planta"
+      }
+    ],
+    "stats": {
+      "hp": 74,
+      "attack": 100
+    }
+  },
+  {
+    "id": 456,
+    "name": "Finneon",
+    "captureRate": 190,
+    "types": [
+      {
+        "id": 11,
+        "name": "Agua"
+      }
+    ],
+    "stats": {
+      "hp": 49,
+      "attack": 49
+    }
+  },
+  {
+    "id": 457,
+    "name": "Lumineon",
+    "captureRate": 75,
+    "types": [
+      {
+        "id": 11,
+        "name": "Agua"
+      }
+    ],
+    "stats": {
+      "hp": 69,
+      "attack": 69
+    }
+  },
+  {
+    "id": 458,
+    "name": "Mantyke",
+    "captureRate": 25,
+    "types": [
+      {
+        "id": 3,
+        "name": "Volador"
+      },
+      {
+        "id": 11,
+        "name": "Agua"
+      }
+    ],
+    "stats": {
+      "hp": 45,
+      "attack": 60
+    }
+  },
+  {
+    "id": 459,
+    "name": "Snover",
+    "captureRate": 120,
+    "types": [
+      {
+        "id": 15,
+        "name": "Hielo"
+      },
+      {
+        "id": 12,
+        "name": "Planta"
+      }
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 62
+    }
+  },
+  {
+    "id": 460,
+    "name": "Abomasnow",
+    "captureRate": 60,
+    "types": [
+      {
+        "id": 15,
+        "name": "Hielo"
+      },
+      {
+        "id": 12,
+        "name": "Planta"
+      }
+    ],
+    "stats": {
+      "hp": 90,
+      "attack": 92
+    }
+  },
+  {
+    "id": 461,
+    "name": "Weavile",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 17,
+        "name": "Siniestro"
+      },
+      {
+        "id": 15,
+        "name": "Hielo"
+      }
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 120
+    }
+  },
+  {
+    "id": 462,
+    "name": "Magnezone",
+    "captureRate": 30,
+    "types": [
+      {
+        "id": 13,
+        "name": "Eléctrico"
+      },
+      {
+        "id": 9,
+        "name": "Acero"
+      }
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 130
+    }
+  },
+  {
+    "id": 463,
+    "name": "Lickilicky",
+    "captureRate": 30,
+    "types": [
+      {
+        "id": 1,
+        "name": "Normal"
+      }
+    ],
+    "stats": {
+      "hp": 110,
+      "attack": 85
+    }
+  },
+  {
+    "id": 464,
+    "name": "Rhyperior",
+    "captureRate": 30,
+    "types": [
+      {
+        "id": 6,
+        "name": "Roca"
+      },
+      {
+        "id": 5,
+        "name": "Tierra"
+      }
+    ],
+    "stats": {
+      "hp": 115,
+      "attack": 140
+    }
+  },
+  {
+    "id": 465,
+    "name": "Tangrowth",
+    "captureRate": 30,
+    "types": [
+      {
+        "id": 12,
+        "name": "Planta"
+      }
+    ],
+    "stats": {
+      "hp": 100,
+      "attack": 110
+    }
+  },
+  {
+    "id": 466,
+    "name": "Electivire",
+    "captureRate": 30,
+    "types": [
+      {
+        "id": 13,
+        "name": "Eléctrico"
+      }
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": 123
+    }
+  },
+  {
+    "id": 467,
+    "name": "Magmortar",
+    "captureRate": 30,
+    "types": [
+      {
+        "id": 10,
+        "name": "Fuego"
+      }
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": 125
+    }
+  },
+  {
+    "id": 468,
+    "name": "Togekiss",
+    "captureRate": 30,
+    "types": [
+      {
+        "id": 3,
+        "name": "Volador"
+      },
+      {
+        "id": 18,
+        "name": "Hada"
+      }
+    ],
+    "stats": {
+      "hp": 85,
+      "attack": 120
+    }
+  },
+  {
+    "id": 469,
+    "name": "Yanmega",
+    "captureRate": 30,
+    "types": [
+      {
+        "id": 7,
+        "name": "Bicho"
+      },
+      {
+        "id": 3,
+        "name": "Volador"
+      }
+    ],
+    "stats": {
+      "hp": 86,
+      "attack": 116
+    }
+  },
+  {
+    "id": 470,
+    "name": "Leafeon",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 12,
+        "name": "Planta"
+      }
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 110
+    }
+  },
+  {
+    "id": 471,
+    "name": "Glaceon",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 15,
+        "name": "Hielo"
+      }
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 130
+    }
+  },
+  {
+    "id": 472,
+    "name": "Gliscor",
+    "captureRate": 30,
+    "types": [
+      {
+        "id": 5,
+        "name": "Tierra"
+      },
+      {
+        "id": 3,
+        "name": "Volador"
+      }
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": 95
+    }
+  },
+  {
+    "id": 473,
+    "name": "Mamoswine",
+    "captureRate": 50,
+    "types": [
+      {
+        "id": 5,
+        "name": "Tierra"
+      },
+      {
+        "id": 15,
+        "name": "Hielo"
+      }
+    ],
+    "stats": {
+      "hp": 110,
+      "attack": 130
+    }
+  },
+  {
+    "id": 474,
+    "name": "Porygon-Z",
+    "captureRate": 30,
+    "types": [
+      {
+        "id": 1,
+        "name": "Normal"
+      }
+    ],
+    "stats": {
+      "hp": 85,
+      "attack": 135
+    }
+  },
+  {
+    "id": 475,
+    "name": "Gallade",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 14,
+        "name": "Psíquico"
+      },
+      {
+        "id": 2,
+        "name": "Lucha"
+      }
+    ],
+    "stats": {
+      "hp": 68,
+      "attack": 125
+    }
+  },
+  {
+    "id": 476,
+    "name": "Probopass",
+    "captureRate": 60,
+    "types": [
+      {
+        "id": 6,
+        "name": "Roca"
+      },
+      {
+        "id": 9,
+        "name": "Acero"
+      }
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 75
+    }
+  },
+  {
+    "id": 477,
+    "name": "Dusknoir",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 8,
+        "name": "Fantasma"
+      }
+    ],
+    "stats": {
+      "hp": 45,
+      "attack": 100
+    }
+  },
+  {
+    "id": 478,
+    "name": "Froslass",
+    "captureRate": 75,
+    "types": [
+      {
+        "id": 15,
+        "name": "Hielo"
+      },
+      {
+        "id": 8,
+        "name": "Fantasma"
+      }
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 80
+    }
+  },
+  {
+    "id": 479,
+    "name": "Rotom",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 13,
+        "name": "Eléctrico"
+      },
+      {
+        "id": 8,
+        "name": "Fantasma"
+      }
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 95
+    }
+  },
+  {
+    "id": 480,
+    "name": "Uxie",
+    "captureRate": 3,
+    "types": [
+      {
+        "id": 14,
+        "name": "Psíquico"
+      }
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": 75
+    }
+  },
+  {
+    "id": 481,
+    "name": "Mesprit",
+    "captureRate": 3,
+    "types": [
+      {
+        "id": 14,
+        "name": "Psíquico"
+      }
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": 105
+    }
+  },
+  {
+    "id": 482,
+    "name": "Azelf",
+    "captureRate": 3,
+    "types": [
+      {
+        "id": 14,
+        "name": "Psíquico"
+      }
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": 125
+    }
+  },
+  {
+    "id": 483,
+    "name": "Dialga",
+    "captureRate": 3,
+    "types": [
+      {
+        "id": 16,
+        "name": "Dragón"
+      },
+      {
+        "id": 9,
+        "name": "Acero"
+      }
+    ],
+    "stats": {
+      "hp": 100,
+      "attack": 150
+    }
+  },
+  {
+    "id": 484,
+    "name": "Palkia",
+    "captureRate": 3,
+    "types": [
+      {
+        "id": 11,
+        "name": "Agua"
+      },
+      {
+        "id": 16,
+        "name": "Dragón"
+      }
+    ],
+    "stats": {
+      "hp": 90,
+      "attack": 150
+    }
+  },
+  {
+    "id": 485,
+    "name": "Heatran",
+    "captureRate": 3,
+    "types": [
+      {
+        "id": 10,
+        "name": "Fuego"
+      },
+      {
+        "id": 9,
+        "name": "Acero"
+      }
+    ],
+    "stats": {
+      "hp": 91,
+      "attack": 130
+    }
+  },
+  {
+    "id": 486,
+    "name": "Regigigas",
+    "captureRate": 3,
+    "types": [
+      {
+        "id": 1,
+        "name": "Normal"
+      }
+    ],
+    "stats": {
+      "hp": 110,
+      "attack": 160
+    }
+  },
+  {
+    "id": 487,
+    "name": "Giratina",
+    "captureRate": 3,
+    "types": [
+      {
+        "id": 16,
+        "name": "Dragón"
+      },
+      {
+        "id": 8,
+        "name": "Fantasma"
+      }
+    ],
+    "stats": {
+      "hp": 150,
+      "attack": 100
+    }
+  },
+  {
+    "id": 488,
+    "name": "Cresselia",
+    "captureRate": 3,
+    "types": [
+      {
+        "id": 14,
+        "name": "Psíquico"
+      }
+    ],
+    "stats": {
+      "hp": 120,
+      "attack": 75
+    }
+  },
+  {
+    "id": 489,
+    "name": "Phione",
+    "captureRate": 30,
+    "types": [
+      {
+        "id": 11,
+        "name": "Agua"
+      }
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": 80
+    }
+  },
+  {
+    "id": 490,
+    "name": "Manaphy",
+    "captureRate": 3,
+    "types": [
+      {
+        "id": 11,
+        "name": "Agua"
+      }
+    ],
+    "stats": {
+      "hp": 100,
+      "attack": 100
+    }
+  },
+  {
+    "id": 491,
+    "name": "Darkrai",
+    "captureRate": 3,
+    "types": [
+      {
+        "id": 17,
+        "name": "Siniestro"
+      }
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 135
+    }
+  },
+  {
+    "id": 492,
+    "name": "Shaymin",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 12,
+        "name": "Planta"
+      }
+    ],
+    "stats": {
+      "hp": 100,
+      "attack": 100
+    }
+  },
+  {
+    "id": 493,
+    "name": "Arceus",
+    "captureRate": 3,
+    "types": [
+      {
+        "id": 1,
+        "name": "Normal"
+      }
+    ],
+    "stats": {
+      "hp": 120,
+      "attack": 120
+    }
+  },
+  {
+    "id": 494,
+    "name": "Victini",
+    "captureRate": 3,
+    "types": [
+      {
+        "id": 10,
+        "name": "Fuego"
+      },
+      {
+        "id": 14,
+        "name": "Psíquico"
+      }
+    ],
+    "stats": {
+      "hp": 100,
+      "attack": 100
+    }
+  },
+  {
+    "id": 495,
+    "name": "Snivy",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 12,
+        "name": "Planta"
+      }
+    ],
+    "stats": {
+      "hp": 45,
+      "attack": 45
+    }
+  },
+  {
+    "id": 496,
+    "name": "Servine",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 12,
+        "name": "Planta"
+      }
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 60
+    }
+  },
+  {
+    "id": 497,
+    "name": "Serperior",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 12,
+        "name": "Planta"
+      }
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": 75
+    }
+  },
+  {
+    "id": 498,
+    "name": "Tepig",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 10,
+        "name": "Fuego"
+      }
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 63
+    }
+  },
+  {
+    "id": 499,
+    "name": "Pignite",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 2,
+        "name": "Lucha"
+      },
+      {
+        "id": 10,
+        "name": "Fuego"
+      }
+    ],
+    "stats": {
+      "hp": 90,
+      "attack": 93
+    }
+  },
+  {
+    "id": 500,
+    "name": "Emboar",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 2,
+        "name": "Lucha"
+      },
+      {
+        "id": 10,
+        "name": "Fuego"
+      }
+    ],
+    "stats": {
+      "hp": 110,
+      "attack": 123
+    }
+  },
+  {
+    "id": 501,
+    "name": "Oshawott",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 11,
+        "name": "Agua"
+      }
+    ],
+    "stats": {
+      "hp": 55,
+      "attack": 63
+    }
+  },
+  {
+    "id": 502,
+    "name": "Dewott",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 11,
+        "name": "Agua"
+      }
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": 83
+    }
+  },
+  {
+    "id": 503,
+    "name": "Samurott",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 11,
+        "name": "Agua"
+      }
+    ],
+    "stats": {
+      "hp": 95,
+      "attack": 108
+    }
+  },
+  {
+    "id": 504,
+    "name": "Patrat",
+    "captureRate": 255,
+    "types": [
+      {
+        "id": 1,
+        "name": "Normal"
+      }
+    ],
+    "stats": {
+      "hp": 45,
+      "attack": 55
+    }
+  },
+  {
+    "id": 505,
+    "name": "Kukmarda",
+    "captureRate": 255,
+    "types": [
+      {
+        "id": 1,
+        "name": "Normal"
+      }
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 85
+    }
+  },
+  {
+    "id": 506,
+    "name": "Lillipup",
+    "captureRate": 255,
+    "types": [
+      {
+        "id": 1,
+        "name": "Normal"
+      }
+    ],
+    "stats": {
+      "hp": 45,
+      "attack": 60
+    }
+  },
+  {
+    "id": 507,
+    "name": "Herdier",
+    "captureRate": 120,
+    "types": [
+      {
+        "id": 1,
+        "name": "Normal"
+      }
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 80
+    }
+  },
+  {
+    "id": 508,
+    "name": "Stoutland",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 1,
+        "name": "Normal"
+      }
+    ],
+    "stats": {
+      "hp": 85,
+      "attack": 110
+    }
+  },
+  {
+    "id": 509,
+    "name": "Purrloin",
+    "captureRate": 255,
+    "types": [
+      {
+        "id": 17,
+        "name": "Siniestro"
+      }
+    ],
+    "stats": {
+      "hp": 41,
+      "attack": 50
+    }
+  },
+  {
+    "id": 510,
+    "name": "Liepard",
+    "captureRate": 90,
+    "types": [
+      {
+        "id": 17,
+        "name": "Siniestro"
+      }
+    ],
+    "stats": {
+      "hp": 64,
+      "attack": 88
+    }
+  },
+  {
+    "id": 511,
+    "name": "Pansage",
+    "captureRate": 190,
+    "types": [
+      {
+        "id": 12,
+        "name": "Planta"
+      }
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 53
+    }
+  },
+  {
+    "id": 512,
+    "name": "Simisage",
+    "captureRate": 75,
+    "types": [
+      {
+        "id": 12,
+        "name": "Planta"
+      }
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": 98
+    }
+  },
+  {
+    "id": 513,
+    "name": "Pansear",
+    "captureRate": 190,
+    "types": [
+      {
+        "id": 10,
+        "name": "Fuego"
+      }
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 53
+    }
+  },
+  {
+    "id": 514,
+    "name": "Simisear",
+    "captureRate": 75,
+    "types": [
+      {
+        "id": 10,
+        "name": "Fuego"
+      }
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": 98
+    }
+  },
+  {
+    "id": 515,
+    "name": "Panpour",
+    "captureRate": 190,
+    "types": [
+      {
+        "id": 11,
+        "name": "Agua"
+      }
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 53
+    }
+  },
+  {
+    "id": 516,
+    "name": "Simipour",
+    "captureRate": 75,
+    "types": [
+      {
+        "id": 11,
+        "name": "Agua"
+      }
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": 98
+    }
+  },
+  {
+    "id": 517,
+    "name": "Munna",
+    "captureRate": 190,
+    "types": [
+      {
+        "id": 14,
+        "name": "Psíquico"
+      }
+    ],
+    "stats": {
+      "hp": 76,
+      "attack": 67
+    }
+  },
+  {
+    "id": 518,
+    "name": "Musharna",
+    "captureRate": 75,
+    "types": [
+      {
+        "id": 14,
+        "name": "Psíquico"
+      }
+    ],
+    "stats": {
+      "hp": 116,
+      "attack": 107
+    }
+  },
+  {
+    "id": 519,
+    "name": "Pidove",
+    "captureRate": 255,
+    "types": [
+      {
+        "id": 3,
+        "name": "Volador"
+      },
+      {
+        "id": 1,
+        "name": "Normal"
+      }
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 55
+    }
+  },
+  {
+    "id": 520,
+    "name": "Tranquill",
+    "captureRate": 120,
+    "types": [
+      {
+        "id": 3,
+        "name": "Volador"
+      },
+      {
+        "id": 1,
+        "name": "Normal"
+      }
+    ],
+    "stats": {
+      "hp": 62,
+      "attack": 77
+    }
+  },
+  {
+    "id": 521,
+    "name": "Unfezant",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 3,
+        "name": "Volador"
+      },
+      {
+        "id": 1,
+        "name": "Normal"
+      }
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": 115
+    }
+  },
+  {
+    "id": 522,
+    "name": "Blitzle",
+    "captureRate": 190,
+    "types": [
+      {
+        "id": 13,
+        "name": "Eléctrico"
+      }
+    ],
+    "stats": {
+      "hp": 45,
+      "attack": 60
+    }
+  },
+  {
+    "id": 523,
+    "name": "Zebstrika",
+    "captureRate": 75,
+    "types": [
+      {
+        "id": 13,
+        "name": "Eléctrico"
+      }
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": 100
+    }
+  },
+  {
+    "id": 524,
+    "name": "Roggenrola",
+    "captureRate": 255,
+    "types": [
+      {
+        "id": 6,
+        "name": "Roca"
+      }
+    ],
+    "stats": {
+      "hp": 55,
+      "attack": 75
+    }
+  },
+  {
+    "id": 525,
+    "name": "Boldore",
+    "captureRate": 120,
+    "types": [
+      {
+        "id": 6,
+        "name": "Roca"
+      }
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 105
+    }
+  },
+  {
+    "id": 526,
+    "name": "Gigalith",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 6,
+        "name": "Roca"
+      }
+    ],
+    "stats": {
+      "hp": 85,
+      "attack": 135
+    }
+  },
+  {
+    "id": 527,
+    "name": "Woobat",
+    "captureRate": 190,
+    "types": [
+      {
+        "id": 3,
+        "name": "Volador"
+      },
+      {
+        "id": 14,
+        "name": "Psíquico"
+      }
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 55
+    }
+  },
+  {
+    "id": 528,
+    "name": "Swoobat",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 3,
+        "name": "Volador"
+      },
+      {
+        "id": 14,
+        "name": "Psíquico"
+      }
+    ],
+    "stats": {
+      "hp": 67,
+      "attack": 77
+    }
+  },
+  {
+    "id": 529,
+    "name": "Drilbur",
+    "captureRate": 120,
+    "types": [
+      {
+        "id": 5,
+        "name": "Tierra"
+      }
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 85
+    }
+  },
+  {
+    "id": 530,
+    "name": "Excadrill",
+    "captureRate": 60,
+    "types": [
+      {
+        "id": 5,
+        "name": "Tierra"
+      },
+      {
+        "id": 9,
+        "name": "Acero"
+      }
+    ],
+    "stats": {
+      "hp": 110,
+      "attack": 135
+    }
+  },
+  {
+    "id": 531,
+    "name": "Audino",
+    "captureRate": 255,
+    "types": [
+      {
+        "id": 1,
+        "name": "Normal"
+      }
+    ],
+    "stats": {
+      "hp": 103,
+      "attack": 60
+    }
+  },
+  {
+    "id": 532,
+    "name": "Timburr",
+    "captureRate": 180,
+    "types": [
+      {
+        "id": 2,
+        "name": "Lucha"
+      }
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": 80
+    }
+  },
+  {
+    "id": 533,
+    "name": "Gurdurr",
+    "captureRate": 90,
+    "types": [
+      {
+        "id": 2,
+        "name": "Lucha"
+      }
+    ],
+    "stats": {
+      "hp": 85,
+      "attack": 105
+    }
+  },
+  {
+    "id": 534,
+    "name": "Conkeldurr",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 2,
+        "name": "Lucha"
+      }
+    ],
+    "stats": {
+      "hp": 105,
+      "attack": 140
+    }
+  },
+  {
+    "id": 535,
+    "name": "Tympole",
+    "captureRate": 255,
+    "types": [
+      {
+        "id": 11,
+        "name": "Agua"
+      }
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 50
+    }
+  },
+  {
+    "id": 536,
+    "name": "Palpitoad",
+    "captureRate": 120,
+    "types": [
+      {
+        "id": 11,
+        "name": "Agua"
+      },
+      {
+        "id": 5,
+        "name": "Tierra"
+      }
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": 65
+    }
+  },
+  {
+    "id": 537,
+    "name": "Seismitoad",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 11,
+        "name": "Agua"
+      },
+      {
+        "id": 5,
+        "name": "Tierra"
+      }
+    ],
+    "stats": {
+      "hp": 105,
+      "attack": 95
+    }
+  },
+  {
+    "id": 538,
+    "name": "Throh",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 2,
+        "name": "Lucha"
+      }
+    ],
+    "stats": {
+      "hp": 120,
+      "attack": 100
+    }
+  },
+  {
+    "id": 539,
+    "name": "Sawk",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 2,
+        "name": "Lucha"
+      }
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": 125
+    }
+  },
+  {
+    "id": 540,
+    "name": "Sewaddle",
+    "captureRate": 255,
+    "types": [
+      {
+        "id": 7,
+        "name": "Bicho"
+      },
+      {
+        "id": 12,
+        "name": "Planta"
+      }
+    ],
+    "stats": {
+      "hp": 45,
+      "attack": 53
+    }
+  },
+  {
+    "id": 541,
+    "name": "Swadloon",
+    "captureRate": 120,
+    "types": [
+      {
+        "id": 7,
+        "name": "Bicho"
+      },
+      {
+        "id": 12,
+        "name": "Planta"
+      }
+    ],
+    "stats": {
+      "hp": 55,
+      "attack": 63
+    }
+  },
+  {
+    "id": 542,
+    "name": "Leavanny",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 7,
+        "name": "Bicho"
+      },
+      {
+        "id": 12,
+        "name": "Planta"
+      }
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": 103
+    }
+  },
+  {
+    "id": 543,
+    "name": "Venipede",
+    "captureRate": 255,
+    "types": [
+      {
+        "id": 7,
+        "name": "Bicho"
+      },
+      {
+        "id": 4,
+        "name": "Veneno"
+      }
+    ],
+    "stats": {
+      "hp": 30,
+      "attack": 45
+    }
+  },
+  {
+    "id": 544,
+    "name": "Whirlipede",
+    "captureRate": 120,
+    "types": [
+      {
+        "id": 7,
+        "name": "Bicho"
+      },
+      {
+        "id": 4,
+        "name": "Veneno"
+      }
+    ],
+    "stats": {
+      "hp": 40,
+      "attack": 55
+    }
+  },
+  {
+    "id": 545,
+    "name": "Scolipede",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 7,
+        "name": "Bicho"
+      },
+      {
+        "id": 4,
+        "name": "Veneno"
+      }
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 100
+    }
+  },
+  {
+    "id": 546,
+    "name": "Cottonee",
+    "captureRate": 190,
+    "types": [
+      {
+        "id": 12,
+        "name": "Planta"
+      },
+      {
+        "id": 18,
+        "name": "Hada"
+      }
+    ],
+    "stats": {
+      "hp": 40,
+      "attack": 37
+    }
+  },
+  {
+    "id": 547,
+    "name": "Whimsicott",
+    "captureRate": 75,
+    "types": [
+      {
+        "id": 12,
+        "name": "Planta"
+      },
+      {
+        "id": 18,
+        "name": "Hada"
+      }
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 77
+    }
+  },
+  {
+    "id": 548,
+    "name": "Petilil",
+    "captureRate": 190,
+    "types": [
+      {
+        "id": 12,
+        "name": "Planta"
+      }
+    ],
+    "stats": {
+      "hp": 45,
+      "attack": 70
+    }
+  },
+  {
+    "id": 549,
+    "name": "Lilligant",
+    "captureRate": 75,
+    "types": [
+      {
+        "id": 12,
+        "name": "Planta"
+      }
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 110
+    }
+  },
+  {
+    "id": 550,
+    "name": "Basculin",
+    "captureRate": 25,
+    "types": [
+      {
+        "id": 11,
+        "name": "Agua"
+      }
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 92
+    }
+  },
+  {
+    "id": 551,
+    "name": "Sandile",
+    "captureRate": 180,
+    "types": [
+      {
+        "id": 5,
+        "name": "Tierra"
+      },
+      {
+        "id": 17,
+        "name": "Siniestro"
+      }
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 72
+    }
+  },
+  {
+    "id": 552,
+    "name": "Krokorok",
+    "captureRate": 90,
+    "types": [
+      {
+        "id": 5,
+        "name": "Tierra"
+      },
+      {
+        "id": 17,
+        "name": "Siniestro"
+      }
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 82
+    }
+  },
+  {
+    "id": 553,
+    "name": "Krookodile",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 5,
+        "name": "Tierra"
+      },
+      {
+        "id": 17,
+        "name": "Siniestro"
+      }
+    ],
+    "stats": {
+      "hp": 95,
+      "attack": 117
+    }
+  },
+  {
+    "id": 554,
+    "name": "Darumaka",
+    "captureRate": 120,
+    "types": [
+      {
+        "id": 10,
+        "name": "Fuego"
+      }
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 90
+    }
+  },
+  {
+    "id": 555,
+    "name": "Darmanitan",
+    "captureRate": 60,
+    "types": [
+      {
+        "id": 10,
+        "name": "Fuego"
+      }
+    ],
+    "stats": {
+      "hp": 105,
+      "attack": 140
+    }
+  },
+  {
+    "id": 556,
+    "name": "Maractus",
+    "captureRate": 255,
+    "types": [
+      {
+        "id": 12,
+        "name": "Planta"
+      }
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": 106
+    }
+  },
+  {
+    "id": 557,
+    "name": "Dwebble",
+    "captureRate": 190,
+    "types": [
+      {
+        "id": 7,
+        "name": "Bicho"
+      },
+      {
+        "id": 6,
+        "name": "Roca"
+      }
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 65
+    }
+  },
+  {
+    "id": 558,
+    "name": "Crustle",
+    "captureRate": 75,
+    "types": [
+      {
+        "id": 7,
+        "name": "Bicho"
+      },
+      {
+        "id": 6,
+        "name": "Roca"
+      }
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 105
+    }
+  },
+  {
+    "id": 559,
+    "name": "Scraggy",
+    "captureRate": 180,
+    "types": [
+      {
+        "id": 17,
+        "name": "Siniestro"
+      },
+      {
+        "id": 2,
+        "name": "Lucha"
+      }
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 75
+    }
+  },
+  {
+    "id": 560,
+    "name": "Scrafty",
+    "captureRate": 90,
+    "types": [
+      {
+        "id": 17,
+        "name": "Siniestro"
+      },
+      {
+        "id": 2,
+        "name": "Lucha"
+      }
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 90
+    }
+  },
+  {
+    "id": 561,
+    "name": "Sigilyph",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 14,
+        "name": "Psíquico"
+      },
+      {
+        "id": 3,
+        "name": "Volador"
+      }
+    ],
+    "stats": {
+      "hp": 72,
+      "attack": 103
+    }
+  },
+  {
+    "id": 562,
+    "name": "Yamask",
+    "captureRate": 190,
+    "types": [
+      {
+        "id": 8,
+        "name": "Fantasma"
+      }
+    ],
+    "stats": {
+      "hp": 38,
+      "attack": 55
+    }
+  },
+  {
+    "id": 563,
+    "name": "Cofagrigus",
+    "captureRate": 90,
+    "types": [
+      {
+        "id": 8,
+        "name": "Fantasma"
+      }
+    ],
+    "stats": {
+      "hp": 58,
+      "attack": 95
+    }
+  },
+  {
+    "id": 564,
+    "name": "Tirtouga",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 11,
+        "name": "Agua"
+      },
+      {
+        "id": 6,
+        "name": "Roca"
+      }
+    ],
+    "stats": {
+      "hp": 54,
+      "attack": 78
+    }
+  },
+  {
+    "id": 565,
+    "name": "Carracosta",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 11,
+        "name": "Agua"
+      },
+      {
+        "id": 6,
+        "name": "Roca"
+      }
+    ],
+    "stats": {
+      "hp": 74,
+      "attack": 108
+    }
+  },
+  {
+    "id": 566,
+    "name": "Archen",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 6,
+        "name": "Roca"
+      },
+      {
+        "id": 3,
+        "name": "Volador"
+      }
+    ],
+    "stats": {
+      "hp": 55,
+      "attack": 112
+    }
+  },
+  {
+    "id": 567,
+    "name": "Archeops",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 6,
+        "name": "Roca"
+      },
+      {
+        "id": 3,
+        "name": "Volador"
+      }
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": 140
+    }
+  },
+  {
+    "id": 568,
+    "name": "Trubbish",
+    "captureRate": 190,
+    "types": [
+      {
+        "id": 4,
+        "name": "Veneno"
+      }
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 50
+    }
+  },
+  {
+    "id": 569,
+    "name": "Garbodor",
+    "captureRate": 60,
+    "types": [
+      {
+        "id": 4,
+        "name": "Veneno"
+      }
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": 95
+    }
+  },
+  {
+    "id": 570,
+    "name": "Zorua",
+    "captureRate": 75,
+    "types": [
+      {
+        "id": 17,
+        "name": "Siniestro"
+      }
+    ],
+    "stats": {
+      "hp": 40,
+      "attack": 80
+    }
+  },
+  {
+    "id": 571,
+    "name": "Zoroark",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 17,
+        "name": "Siniestro"
+      }
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 120
+    }
+  },
+  {
+    "id": 572,
+    "name": "Minccino",
+    "captureRate": 255,
+    "types": [
+      {
+        "id": 1,
+        "name": "Normal"
+      }
+    ],
+    "stats": {
+      "hp": 55,
+      "attack": 50
+    }
+  },
+  {
+    "id": 573,
+    "name": "Cinccino",
+    "captureRate": 60,
+    "types": [
+      {
+        "id": 1,
+        "name": "Normal"
+      }
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": 95
+    }
+  },
+  {
+    "id": 574,
+    "name": "Gothita",
+    "captureRate": 200,
+    "types": [
+      {
+        "id": 14,
+        "name": "Psíquico"
+      }
+    ],
+    "stats": {
+      "hp": 45,
+      "attack": 55
+    }
+  },
+  {
+    "id": 575,
+    "name": "Gothorita",
+    "captureRate": 100,
+    "types": [
+      {
+        "id": 14,
+        "name": "Psíquico"
+      }
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 75
+    }
+  },
+  {
+    "id": 576,
+    "name": "Gothitelle",
+    "captureRate": 50,
+    "types": [
+      {
+        "id": 14,
+        "name": "Psíquico"
+      }
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 95
+    }
+  },
+  {
+    "id": 577,
+    "name": "Solosis",
+    "captureRate": 200,
+    "types": [
+      {
+        "id": 14,
+        "name": "Psíquico"
+      }
+    ],
+    "stats": {
+      "hp": 45,
+      "attack": 105
+    }
+  },
+  {
+    "id": 578,
+    "name": "Duosion",
+    "captureRate": 100,
+    "types": [
+      {
+        "id": 14,
+        "name": "Psíquico"
+      }
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 125
+    }
+  },
+  {
+    "id": 579,
+    "name": "Reuniclus",
+    "captureRate": 50,
+    "types": [
+      {
+        "id": 14,
+        "name": "Psíquico"
+      }
+    ],
+    "stats": {
+      "hp": 110,
+      "attack": 125
+    }
+  },
+  {
+    "id": 580,
+    "name": "Ducklett",
+    "captureRate": 190,
+    "types": [
+      {
+        "id": 11,
+        "name": "Agua"
+      },
+      {
+        "id": 3,
+        "name": "Volador"
+      }
+    ],
+    "stats": {
+      "hp": 62,
+      "attack": 44
+    }
+  },
+  {
+    "id": 581,
+    "name": "Swanna",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 11,
+        "name": "Agua"
+      },
+      {
+        "id": 3,
+        "name": "Volador"
+      }
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": 87
+    }
+  },
+  {
+    "id": 582,
+    "name": "Vanillite",
+    "captureRate": 255,
+    "types": [
+      {
+        "id": 15,
+        "name": "Hielo"
+      }
+    ],
+    "stats": {
+      "hp": 36,
+      "attack": 65
+    }
+  },
+  {
+    "id": 583,
+    "name": "Vanillish",
+    "captureRate": 120,
+    "types": [
+      {
+        "id": 15,
+        "name": "Hielo"
+      }
+    ],
+    "stats": {
+      "hp": 51,
+      "attack": 80
+    }
+  },
+  {
+    "id": 584,
+    "name": "Vanilluxe",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 15,
+        "name": "Hielo"
+      }
+    ],
+    "stats": {
+      "hp": 71,
+      "attack": 110
+    }
+  },
+  {
+    "id": 585,
+    "name": "Deerling",
+    "captureRate": 190,
+    "types": [
+      {
+        "id": 1,
+        "name": "Normal"
+      },
+      {
+        "id": 12,
+        "name": "Planta"
+      }
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 60
+    }
+  },
+  {
+    "id": 586,
+    "name": "Sawsbuck",
+    "captureRate": 75,
+    "types": [
+      {
+        "id": 1,
+        "name": "Normal"
+      },
+      {
+        "id": 12,
+        "name": "Planta"
+      }
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": 100
+    }
+  },
+  {
+    "id": 587,
+    "name": "Emolga",
+    "captureRate": 200,
+    "types": [
+      {
+        "id": 13,
+        "name": "Eléctrico"
+      },
+      {
+        "id": 3,
+        "name": "Volador"
+      }
+    ],
+    "stats": {
+      "hp": 55,
+      "attack": 75
+    }
+  },
+  {
+    "id": 588,
+    "name": "Karrablast",
+    "captureRate": 200,
+    "types": [
+      {
+        "id": 7,
+        "name": "Bicho"
+      }
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 75
+    }
+  },
+  {
+    "id": 589,
+    "name": "Escavalier",
+    "captureRate": 75,
+    "types": [
+      {
+        "id": 7,
+        "name": "Bicho"
+      },
+      {
+        "id": 9,
+        "name": "Acero"
+      }
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 135
+    }
+  },
+  {
+    "id": 590,
+    "name": "Foongus",
+    "captureRate": 190,
+    "types": [
+      {
+        "id": 12,
+        "name": "Planta"
+      },
+      {
+        "id": 4,
+        "name": "Veneno"
+      }
+    ],
+    "stats": {
+      "hp": 69,
+      "attack": 55
+    }
+  },
+  {
+    "id": 591,
+    "name": "Amoonguss",
+    "captureRate": 75,
+    "types": [
+      {
+        "id": 12,
+        "name": "Planta"
+      },
+      {
+        "id": 4,
+        "name": "Veneno"
+      }
+    ],
+    "stats": {
+      "hp": 114,
+      "attack": 85
+    }
+  },
+  {
+    "id": 592,
+    "name": "Frillish",
+    "captureRate": 190,
+    "types": [
+      {
+        "id": 11,
+        "name": "Agua"
+      },
+      {
+        "id": 8,
+        "name": "Fantasma"
+      }
+    ],
+    "stats": {
+      "hp": 55,
+      "attack": 65
+    }
+  },
+  {
+    "id": 593,
+    "name": "Jellicent",
+    "captureRate": 60,
+    "types": [
+      {
+        "id": 11,
+        "name": "Agua"
+      },
+      {
+        "id": 8,
+        "name": "Fantasma"
+      }
+    ],
+    "stats": {
+      "hp": 100,
+      "attack": 85
+    }
+  },
+  {
+    "id": 594,
+    "name": "Alomomola",
+    "captureRate": 75,
+    "types": [
+      {
+        "id": 11,
+        "name": "Agua"
+      }
+    ],
+    "stats": {
+      "hp": 165,
+      "attack": 75
+    }
+  },
+  {
+    "id": 595,
+    "name": "Joltik",
+    "captureRate": 190,
+    "types": [
+      {
+        "id": 7,
+        "name": "Bicho"
+      },
+      {
+        "id": 13,
+        "name": "Eléctrico"
+      }
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 57
+    }
+  },
+  {
+    "id": 596,
+    "name": "Galvantula",
+    "captureRate": 75,
+    "types": [
+      {
+        "id": 7,
+        "name": "Bicho"
+      },
+      {
+        "id": 13,
+        "name": "Eléctrico"
+      }
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 97
+    }
+  },
+  {
+    "id": 597,
+    "name": "Ferroseed",
+    "captureRate": 255,
+    "types": [
+      {
+        "id": 12,
+        "name": "Planta"
+      },
+      {
+        "id": 9,
+        "name": "Acero"
+      }
+    ],
+    "stats": {
+      "hp": 44,
+      "attack": 50
+    }
+  },
+  {
+    "id": 598,
+    "name": "Ferrothorn",
+    "captureRate": 90,
+    "types": [
+      {
+        "id": 12,
+        "name": "Planta"
+      },
+      {
+        "id": 9,
+        "name": "Acero"
+      }
+    ],
+    "stats": {
+      "hp": 74,
+      "attack": 94
+    }
+  },
+  {
+    "id": 599,
+    "name": "Klink",
+    "captureRate": 130,
+    "types": [
+      {
+        "id": 9,
+        "name": "Acero"
+      }
+    ],
+    "stats": {
+      "hp": 40,
+      "attack": 55
+    }
+  },
+  {
+    "id": 600,
+    "name": "Klang",
+    "captureRate": 60,
+    "types": [
+      {
+        "id": 9,
+        "name": "Acero"
+      }
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 80
+    }
+  },
+  {
+    "id": 601,
+    "name": "Klinklang",
+    "captureRate": 30,
+    "types": [
+      {
+        "id": 9,
+        "name": "Acero"
+      }
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 100
+    }
+  },
+  {
+    "id": 602,
+    "name": "Tynamo",
+    "captureRate": 190,
+    "types": [
+      {
+        "id": 13,
+        "name": "Eléctrico"
+      }
+    ],
+    "stats": {
+      "hp": 35,
+      "attack": 55
+    }
+  },
+  {
+    "id": 603,
+    "name": "Eelektrik",
+    "captureRate": 60,
+    "types": [
+      {
+        "id": 13,
+        "name": "Eléctrico"
+      }
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 85
+    }
+  },
+  {
+    "id": 604,
+    "name": "Eelektross",
+    "captureRate": 30,
+    "types": [
+      {
+        "id": 13,
+        "name": "Eléctrico"
+      }
+    ],
+    "stats": {
+      "hp": 85,
+      "attack": 115
+    }
+  },
+  {
+    "id": 605,
+    "name": "Elgyem",
+    "captureRate": 255,
+    "types": [
+      {
+        "id": 14,
+        "name": "Psíquico"
+      }
+    ],
+    "stats": {
+      "hp": 55,
+      "attack": 85
+    }
+  },
+  {
+    "id": 606,
+    "name": "Beheeyem",
+    "captureRate": 90,
+    "types": [
+      {
+        "id": 14,
+        "name": "Psíquico"
+      }
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": 125
+    }
+  },
+  {
+    "id": 607,
+    "name": "Litwick",
+    "captureRate": 190,
+    "types": [
+      {
+        "id": 8,
+        "name": "Fantasma"
+      },
+      {
+        "id": 10,
+        "name": "Fuego"
+      }
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 65
+    }
+  },
+  {
+    "id": 608,
+    "name": "Lampent",
+    "captureRate": 90,
+    "types": [
+      {
+        "id": 8,
+        "name": "Fantasma"
+      },
+      {
+        "id": 10,
+        "name": "Fuego"
+      }
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 95
+    }
+  },
+  {
+    "id": 609,
+    "name": "Chandelure",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 8,
+        "name": "Fantasma"
+      },
+      {
+        "id": 10,
+        "name": "Fuego"
+      }
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 145
+    }
+  },
+  {
+    "id": 610,
+    "name": "Axew",
+    "captureRate": 75,
+    "types": [
+      {
+        "id": 16,
+        "name": "Dragón"
+      }
+    ],
+    "stats": {
+      "hp": 46,
+      "attack": 87
+    }
+  },
+  {
+    "id": 611,
+    "name": "Fraxure",
+    "captureRate": 60,
+    "types": [
+      {
+        "id": 16,
+        "name": "Dragón"
+      }
+    ],
+    "stats": {
+      "hp": 66,
+      "attack": 117
+    }
+  },
+  {
+    "id": 612,
+    "name": "Haxorus",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 16,
+        "name": "Dragón"
+      }
+    ],
+    "stats": {
+      "hp": 76,
+      "attack": 147
+    }
+  },
+  {
+    "id": 613,
+    "name": "Cubchoo",
+    "captureRate": 120,
+    "types": [
+      {
+        "id": 15,
+        "name": "Hielo"
+      }
+    ],
+    "stats": {
+      "hp": 55,
+      "attack": 70
+    }
+  },
+  {
+    "id": 614,
+    "name": "Beartic",
+    "captureRate": 60,
+    "types": [
+      {
+        "id": 15,
+        "name": "Hielo"
+      }
+    ],
+    "stats": {
+      "hp": 95,
+      "attack": 130
+    }
+  },
+  {
+    "id": 615,
+    "name": "Cryogonal",
+    "captureRate": 25,
+    "types": [
+      {
+        "id": 15,
+        "name": "Hielo"
+      }
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": 95
+    }
+  },
+  {
+    "id": 616,
+    "name": "Shelmet",
+    "captureRate": 200,
+    "types": [
+      {
+        "id": 7,
+        "name": "Bicho"
+      }
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 40
+    }
+  },
+  {
+    "id": 617,
+    "name": "Accelgor",
+    "captureRate": 75,
+    "types": [
+      {
+        "id": 7,
+        "name": "Bicho"
+      }
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": 100
+    }
+  },
+  {
+    "id": 618,
+    "name": "Stunfisk",
+    "captureRate": 75,
+    "types": [
+      {
+        "id": 5,
+        "name": "Tierra"
+      },
+      {
+        "id": 13,
+        "name": "Eléctrico"
+      }
+    ],
+    "stats": {
+      "hp": 109,
+      "attack": 81
+    }
+  },
+  {
+    "id": 619,
+    "name": "Mienfoo",
+    "captureRate": 180,
+    "types": [
+      {
+        "id": 2,
+        "name": "Lucha"
+      }
+    ],
+    "stats": {
+      "hp": 45,
+      "attack": 85
+    }
+  },
+  {
+    "id": 620,
+    "name": "Mienshao",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 2,
+        "name": "Lucha"
+      }
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 125
+    }
+  },
+  {
+    "id": 621,
+    "name": "Druddigon",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 16,
+        "name": "Dragón"
+      }
+    ],
+    "stats": {
+      "hp": 77,
+      "attack": 120
+    }
+  },
+  {
+    "id": 622,
+    "name": "Golett",
+    "captureRate": 190,
+    "types": [
+      {
+        "id": 8,
+        "name": "Fantasma"
+      },
+      {
+        "id": 5,
+        "name": "Tierra"
+      }
+    ],
+    "stats": {
+      "hp": 59,
+      "attack": 74
+    }
+  },
+  {
+    "id": 623,
+    "name": "Golurk",
+    "captureRate": 90,
+    "types": [
+      {
+        "id": 8,
+        "name": "Fantasma"
+      },
+      {
+        "id": 5,
+        "name": "Tierra"
+      }
+    ],
+    "stats": {
+      "hp": 89,
+      "attack": 124
+    }
+  },
+  {
+    "id": 624,
+    "name": "Pawniard",
+    "captureRate": 120,
+    "types": [
+      {
+        "id": 17,
+        "name": "Siniestro"
+      },
+      {
+        "id": 9,
+        "name": "Acero"
+      }
+    ],
+    "stats": {
+      "hp": 45,
+      "attack": 85
+    }
+  },
+  {
+    "id": 625,
+    "name": "Bisharp",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 17,
+        "name": "Siniestro"
+      },
+      {
+        "id": 9,
+        "name": "Acero"
+      }
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 125
+    }
+  },
+  {
+    "id": 626,
+    "name": "Bouffalant",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 1,
+        "name": "Normal"
+      }
+    ],
+    "stats": {
+      "hp": 95,
+      "attack": 110
+    }
+  },
+  {
+    "id": 627,
+    "name": "Rufflet",
+    "captureRate": 190,
+    "types": [
+      {
+        "id": 3,
+        "name": "Volador"
+      },
+      {
+        "id": 1,
+        "name": "Normal"
+      }
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 83
+    }
+  },
+  {
+    "id": 628,
+    "name": "Braviary",
+    "captureRate": 60,
+    "types": [
+      {
+        "id": 3,
+        "name": "Volador"
+      },
+      {
+        "id": 1,
+        "name": "Normal"
+      }
+    ],
+    "stats": {
+      "hp": 100,
+      "attack": 123
+    }
+  },
+  {
+    "id": 629,
+    "name": "Vullaby",
+    "captureRate": 190,
+    "types": [
+      {
+        "id": 17,
+        "name": "Siniestro"
+      },
+      {
+        "id": 3,
+        "name": "Volador"
+      }
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 55
+    }
+  },
+  {
+    "id": 630,
+    "name": "Mandibuzz",
+    "captureRate": 60,
+    "types": [
+      {
+        "id": 17,
+        "name": "Siniestro"
+      },
+      {
+        "id": 3,
+        "name": "Volador"
+      }
+    ],
+    "stats": {
+      "hp": 110,
+      "attack": 65
+    }
+  },
+  {
+    "id": 631,
+    "name": "Heatmor",
+    "captureRate": 90,
+    "types": [
+      {
+        "id": 10,
+        "name": "Fuego"
+      }
+    ],
+    "stats": {
+      "hp": 85,
+      "attack": 105
+    }
+  },
+  {
+    "id": 632,
+    "name": "Durant",
+    "captureRate": 90,
+    "types": [
+      {
+        "id": 7,
+        "name": "Bicho"
+      },
+      {
+        "id": 9,
+        "name": "Acero"
+      }
+    ],
+    "stats": {
+      "hp": 58,
+      "attack": 109
+    }
+  },
+  {
+    "id": 633,
+    "name": "Deino",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 16,
+        "name": "Dragón"
+      },
+      {
+        "id": 17,
+        "name": "Siniestro"
+      }
+    ],
+    "stats": {
+      "hp": 52,
+      "attack": 65
+    }
+  },
+  {
+    "id": 634,
+    "name": "Zweilous",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 17,
+        "name": "Siniestro"
+      },
+      {
+        "id": 16,
+        "name": "Dragón"
+      }
+    ],
+    "stats": {
+      "hp": 72,
+      "attack": 85
+    }
+  },
+  {
+    "id": 635,
+    "name": "Hydreigon",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 17,
+        "name": "Siniestro"
+      },
+      {
+        "id": 16,
+        "name": "Dragón"
+      }
+    ],
+    "stats": {
+      "hp": 92,
+      "attack": 125
+    }
+  },
+  {
+    "id": 636,
+    "name": "Larvesta",
+    "captureRate": 45,
+    "types": [
+      {
+        "id": 7,
+        "name": "Bicho"
+      },
+      {
+        "id": 10,
+        "name": "Fuego"
+      }
+    ],
+    "stats": {
+      "hp": 55,
+      "attack": 85
+    }
+  },
+  {
+    "id": 637,
+    "name": "Volcarona",
+    "captureRate": 15,
+    "types": [
+      {
+        "id": 7,
+        "name": "Bicho"
+      },
+      {
+        "id": 10,
+        "name": "Fuego"
+      }
+    ],
+    "stats": {
+      "hp": 85,
+      "attack": 135
+    }
+  },
+  {
+    "id": 638,
+    "name": "Cobalion",
+    "captureRate": 3,
+    "types": [
+      {
+        "id": 9,
+        "name": "Acero"
+      },
+      {
+        "id": 2,
+        "name": "Lucha"
+      }
+    ],
+    "stats": {
+      "hp": 91,
+      "attack": 90
+    }
+  },
+  {
+    "id": 639,
+    "name": "Terrakion",
+    "captureRate": 3,
+    "types": [
+      {
+        "id": 6,
+        "name": "Roca"
+      },
+      {
+        "id": 2,
+        "name": "Lucha"
+      }
+    ],
+    "stats": {
+      "hp": 91,
+      "attack": 129
+    }
+  },
+  {
+    "id": 640,
+    "name": "Virizion",
+    "captureRate": 3,
+    "types": [
+      {
+        "id": 12,
+        "name": "Planta"
+      },
+      {
+        "id": 2,
+        "name": "Lucha"
+      }
+    ],
+    "stats": {
+      "hp": 91,
+      "attack": 90
+    }
+  },
+  {
+    "id": 641,
+    "name": "Tornadus",
+    "captureRate": 3,
+    "types": [
+      {
+        "id": 3,
+        "name": "Volador"
+      }
+    ],
+    "stats": {
+      "hp": 79,
+      "attack": 125
+    }
+  },
+  {
+    "id": 642,
+    "name": "Thundurus",
+    "captureRate": 3,
+    "types": [
+      {
+        "id": 13,
+        "name": "Eléctrico"
+      },
+      {
+        "id": 3,
+        "name": "Volador"
+      }
+    ],
+    "stats": {
+      "hp": 79,
+      "attack": 125
+    }
+  },
+  {
+    "id": 643,
+    "name": "Reshiram",
+    "captureRate": 3,
+    "types": [
+      {
+        "id": 16,
+        "name": "Dragón"
+      },
+      {
+        "id": 10,
+        "name": "Fuego"
+      }
+    ],
+    "stats": {
+      "hp": 100,
+      "attack": 150
+    }
+  },
+  {
+    "id": 644,
+    "name": "Zekrom",
+    "captureRate": 3,
+    "types": [
+      {
+        "id": 13,
+        "name": "Eléctrico"
+      },
+      {
+        "id": 16,
+        "name": "Dragón"
+      }
+    ],
+    "stats": {
+      "hp": 100,
+      "attack": 150
+    }
+  },
+  {
+    "id": 645,
+    "name": "Landorus",
+    "captureRate": 3,
+    "types": [
+      {
+        "id": 5,
+        "name": "Tierra"
+      },
+      {
+        "id": 3,
+        "name": "Volador"
+      }
+    ],
+    "stats": {
+      "hp": 89,
+      "attack": 125
+    }
+  },
+  {
+    "id": 646,
+    "name": "Kyurem",
+    "captureRate": 3,
+    "types": [
+      {
+        "id": 15,
+        "name": "Hielo"
+      },
+      {
+        "id": 16,
+        "name": "Dragón"
+      }
+    ],
+    "stats": {
+      "hp": 125,
+      "attack": 130
+    }
+  },
+  {
+    "id": 647,
+    "name": "Keldeo",
+    "captureRate": 3,
+    "types": [
+      {
+        "id": 2,
+        "name": "Lucha"
+      },
+      {
+        "id": 11,
+        "name": "Agua"
+      }
+    ],
+    "stats": {
+      "hp": 91,
+      "attack": 129
+    }
+  },
+  {
+    "id": 648,
+    "name": "Meloetta",
+    "captureRate": 3,
+    "types": [
+      {
+        "id": 1,
+        "name": "Normal"
+      },
+      {
+        "id": 14,
+        "name": "Psíquico"
+      }
+    ],
+    "stats": {
+      "hp": 100,
+      "attack": 128
+    }
+  },
+  {
+    "id": 649,
+    "name": "Genesect",
+    "captureRate": 3,
+    "types": [
+      {
+        "id": 7,
+        "name": "Bicho"
+      },
+      {
+        "id": 9,
+        "name": "Acero"
+      }
+    ],
+    "stats": {
+      "hp": 71,
+      "attack": 120
+    }
+  }
+]
