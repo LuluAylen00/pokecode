@@ -87,8 +87,9 @@ async function choose(type) {
     // console.log(cfg.user);
     let otherUser = cfg.user;
     cfg.user = new ChosePokemon(await getPokemon(type), cfg.user);
-    cfg.user.base = otherUser.base;
-    cfg.user.element = otherUser.element;
+    cfg.user.base = otherUser.base ? otherUser.base : cfg.user.base;
+    cfg.user.element = otherUser.element ? otherUser.element : cfg.user.element;
+    console.log(cfg.user);
     // console.log(cfg.user);
     let newElement = cfg.user.element;
     divCont.appendChild(newElement);

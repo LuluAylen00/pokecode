@@ -31,10 +31,12 @@ var customHint = function (cm) {
   
     var variables = ["pokemon", "chooseInitial"];
     var properties = ["moveUp","moveDown","moveLeft","moveRight","attack"];
+  var initials = ["Bulbasaur", "Charmander", "Squirtle", "Pikachu", "Eevee", "Chikorita", "Cyndaquil", "Totodile", "Treecko", "Torchic", "Mudkip", "Turtwig", "Chimchar", "Piplup"]
+
   // console.log(token.type, currentWord);
   var list = [];
     var word;
-  if ((token.type == null || token.type == "variable") && currentWord != ".") {
+  if ((token.type == null || token.type == "variable") && currentWord != "." && currentWord != "(") {
     for (var i = 0; i < variables.length; i++) {
         word = variables[i];
         list.push ({
@@ -53,6 +55,23 @@ var customHint = function (cm) {
             type: "object", // el tipo de la opción
               apply: function (cm, data) { // la función que se ejecuta al seleccionar la opción
                 cm.replaceRange(data.text == "." ? "."+word+"()" : word+"()", data.from, data.to)
+              }, // el texto que se agrega al seleccionar la opción
+            // apply: currentWord == "." ? "."+word+"()" : word+"()",
+            detail: "macro" // el detalle de la opción
+          });
+        // if (word.indexOf (currentWord) == 0) {
+        //   list.push (word);
+        // }
+      }
+  } else if (currentWord == "(" && jsNewEditor.getLine(line).trim().toLowerCase().includes("chooseInitial(".toLowerCase())){
+for (var i = 0; i < initials.length; i++) {
+        word = initials[i];
+        list.push ({
+            text: currentWord == "(" ? "("+word+")" : word+")", // el nombre de la opción
+            label: word,
+            type: "object", // el tipo de la opción
+              apply: function (cm, data) { // la función que se ejecuta al seleccionar la opción
+                cm.replaceRange(word+")", data.from, data.to)
               }, // el texto que se agrega al seleccionar la opción
             // apply: currentWord == "." ? "."+word+"()" : word+"()",
             detail: "macro" // el detalle de la opción
@@ -207,6 +226,7 @@ async function defaultTurn() { // CPU Move
                 for (let z = 1; z <= quantity; z++) {
                   switch (splitCommand) {
                     case "moveUp": 
+                    console.log(cfg.user);
                         move.up(cfg.user);
                         await sleep();
                         break;
@@ -231,6 +251,22 @@ async function defaultTurn() { // CPU Move
                   }
                 }
             }
+        } else if (command.includes("chooseInitial")){
+          if (command.includes("(") && command.includes(")")) {
+            let splitCommand = command.trim().split("(")[1].split(")")[0];
+            console.log(splitCommand);
+            let pokemon = await getPokemon(splitCommand);
+            console.log(pokemon);
+            if (pokemon) {
+              choose(splitCommand)
+              resetButton.style.display = "none";
+              startButton.style.display = "flex";
+            } else {
+              alert("No se ha encontrado el pokemon "+splitCommand)
+            }
+          } else {
+            alert("El comando "+command+" está mal cerrado")
+          }
         }
         defaultTurn()
         await sleep();

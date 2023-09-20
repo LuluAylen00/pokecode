@@ -224,6 +224,7 @@ function faint(loser, winner) {
     winner.stats.exp += expPlus
     // console.log(cfg.user);
     if (winner.stats.exp % 25 < expPlus) {
+        console.log(winner);
         cfg.user.level++
         cfg.user.stats.maxHp = Math.round(((((cfg.user.base.hp * 2) * cfg.user.level) / 100) + cfg.user.level + 10) * 1.2),
         cfg.user.stats.attack = Math.round(((((cfg.user.base.attack * 2) * cfg.user.level) / 100) + 5) * 1.2),
@@ -246,6 +247,7 @@ function runDefense(unit, attacker) {
     // console.log(unit.stats.hp);
     // unit.stats.hp -= attacker.stats.attack;
     if (unit.stats.hp <= 0) {
+        // console.log(attacker);
         faint(unit, attacker);
     };
     // console.log("Actual PS", unit.stats.hp);

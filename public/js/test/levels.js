@@ -25,7 +25,7 @@ async function loadLevel(level) {
             cfg = {
                 time: 0,
                 user: {
-                    base: pokemon.base,
+                    base: cfg.user.base || pokemon.base,
                     coords: [1,3],
                     // coords: [this.coords[0], this.coords[1]],
                     element: document.getElementById("user"),
@@ -98,6 +98,7 @@ async function loadLevel(level) {
                     coords: [1,3],
                     // coords: [this.coords[0], this.coords[1]],
                     element: document.getElementById("user"),
+                    base: cfg.user.base || undefined,
                     type: document.getElementById("type").innerHTML || 1,
                     level: document.getElementById("level").innerHTML || 1,
                     image: "",
